@@ -1,0 +1,4863 @@
+{
+  "number": "017",
+  "title": "Kaatsʼ",
+  "author": "Tseexwáa / J.B. Fawcett",
+  "clan": "Wooshkeetaan; Tʼaḵdeintaan yádi",
+  "source": "D&D 1987:218-243",
+  "transcriber": "Ḵeixwnéi / Nora Marks Dauenhauer",
+  "orthography": "RP",
+  "dialect": "Northern – Coastal – Juneau",
+  "sentences": [
+    {
+      "sentence_number": 1,
+      "sentence_tlingit": "Likoodzí shkalneek áyá.",
+      "sentence_english": "This is a magnificent story.",
+      "lines": [
+        {
+          "line_number": 1,
+          "line_tlingit": "Likoodzí shkalneek áyá.",
+          "line_english": "This is a magnificent story.",
+          "page_tlingit": "218",
+          "page_english": "219"
+        }
+      ]
+    },
+    {
+      "sentence_number": 2,
+      "sentence_tlingit": "Chʼa ldakát át áyá yaa yanaxíx.",
+      "sentence_english": "Many kinds of things happened.",
+      "lines": [
+        {
+          "line_number": 2,
+          "line_tlingit": "Chʼa ldakát át áyá yaa yanaxíx.",
+          "line_english": "Many kinds of things happened.",
+          "page_tlingit": "218",
+          "page_english": "219"
+        }
+      ]
+    },
+    {
+      "sentence_number": 3,
+      "sentence_tlingit": "Chʼu chʼáagudáx̱ yú alʼóon atgutóot aa wu.aadín lingít ḵa héen x̱ukaanáx̱ aa at eenín.",
+      "sentence_english": "Even from long ago Tlingits used to go hunting in the forest and harvesting on the sea.",
+      "lines": [
+        {
+          "line_number": 3,
+          "line_tlingit": "Chʼu chʼáagudáx̱",
+          "line_english": "Even from long ago",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 4,
+          "line_tlingit": "yú alʼóon",
+          "line_english": "Tlingits",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 5,
+          "line_tlingit": "atgutóot aa wu.aadín",
+          "line_english": "used to go hunting",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 6,
+          "line_tlingit": "lingít",
+          "line_english": "in the forest",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 7,
+          "line_tlingit": "ḵa héen x̱ukaanáx̱ aa at eenín.",
+          "line_english": "and harvesting on the sea.",
+          "page_tlingit": "218",
+          "page_english": "219"
+        }
+      ]
+    },
+    {
+      "sentence_number": 4,
+      "sentence_tlingit": "“Daa sáyú aan has at een?” yóo áyá x̱ʼayaduḵá a x̱oo aa ḵu.oo.",
+      "sentence_english": "“What did they hunt with?” is what some people ask.",
+      "lines": [
+        {
+          "line_number": 8,
+          "line_tlingit": "“Daa sáyú aan has at een?”",
+          "line_english": "“What did they hunt with?”",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 9,
+          "line_tlingit": "yóo áyá x̱ʼayaduḵá",
+          "line_english": "is what",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 10,
+          "line_tlingit": "a x̱oo aa ḵu.oo.",
+          "line_english": "some people ask.",
+          "page_tlingit": "218",
+          "page_english": "219"
+        }
+      ]
+    },
+    {
+      "sentence_number": 5,
+      "sentence_tlingit": "Xʼoon táakw sá shoowaxeex.",
+      "sentence_english": "How many years have passed.",
+      "lines": [
+        {
+          "line_number": 11,
+          "line_tlingit": "Xʼoon táakw sá shoowaxeex.",
+          "line_english": "How many years have passed.",
+          "page_tlingit": "218",
+          "page_english": "219"
+        }
+      ]
+    },
+    {
+      "sentence_number": 6,
+      "sentence_tlingit": "Ha aan at du.een át x̱áayá ḵustéeyin.",
+      "sentence_english": "Surely there used to be weapons to hunt with.",
+      "lines": [
+        {
+          "line_number": 12,
+          "line_tlingit": "Ha aan at du.een át x̱áayá ḵustéeyin.",
+          "line_english": "Surely there used to be weapons to hunt with.",
+          "page_tlingit": "218",
+          "page_english": "219"
+        }
+      ]
+    },
+    {
+      "sentence_number": 7,
+      "sentence_tlingit": "Lingítch aadé s at in yé, yú heentak.ádi tsú aadé kéi s ashátji yé ḵa yá át woo.aadi át, yá héen x̱ukaanáx̱ aa aadé s a.eeni yé áwé wdudzikóo ḵa yú dáaḵt woo.aadi át x̱á.",
+      "sentence_english": "Tlingits knew how to hunt things, those sea mammals too, and how to catch those animals that walked, how to harvest those on the sea and those that walked inland.",
+      "lines": [
+        {
+          "line_number": 13,
+          "line_tlingit": "Lingítch",
+          "line_english": "Tlingits",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 14,
+          "line_tlingit": "aadé s at in yé,",
+          "line_english": "knew",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 15,
+          "line_tlingit": "yú heentak.ádi tsú",
+          "line_english": "how to hunt things,",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 16,
+          "line_tlingit": "aadé kéi s ashátji yé",
+          "line_english": "those sea mammals too,",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 17,
+          "line_tlingit": "ḵa yá át woo.aadi át,",
+          "line_english": "and how to catch",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 18,
+          "line_tlingit": "yá héen x̱ukaanáx̱ aa",
+          "line_english": "those animals that walked,",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 19,
+          "line_tlingit": "aadé s a.eeni yé",
+          "line_english": "how to harvest",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 20,
+          "line_tlingit": "áwé wdudzikóo",
+          "line_english": "those on the sea",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 21,
+          "line_tlingit": "ḵa yú dáaḵt woo.aadi át x̱á.",
+          "line_english": "and those that walked inland.",
+          "page_tlingit": "218",
+          "page_english": "219"
+        }
+      ]
+    },
+    {
+      "sentence_number": 8,
+      "sentence_tlingit": "Ha yá ḵáa ḵu.aa at natí áyú keitl.",
+      "sentence_english": "There was a man who went out hunting with a dog.",
+      "lines": [
+        {
+          "line_number": 22,
+          "line_tlingit": "Ha yá ḵáa ḵu.aa",
+          "line_english": "There was a man",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 23,
+          "line_tlingit": "at natí áyú",
+          "line_english": "who went out hunting",
+          "page_tlingit": "218",
+          "page_english": "219"
+        },
+        {
+          "line_number": 24,
+          "line_tlingit": "keitl.",
+          "line_english": "with a dog.",
+          "page_tlingit": "218",
+          "page_english": "219"
+        }
+      ]
+    },
+    {
+      "sentence_number": 9,
+      "sentence_tlingit": "A ḵoowúdáx̱ áyú yéi daadunéiyin yú daḵka.ádi tlenxʼ dligéixʼi át.",
+      "sentence_english": "Those great inland animals, large animals, were taken from their den.",
+      "lines": [
+        {
+          "line_number": 25,
+          "line_tlingit": "A ḵoowúdáx̱ áyú yéi daadunéiyin",
+          "line_english": "Those great inland animals,",
+          "page_tlingit": "220",
+          "page_english": "219"
+        },
+        {
+          "line_number": 26,
+          "line_tlingit": "yú daḵka.ádi tlenxʼ",
+          "line_english": "large animals,",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 27,
+          "line_tlingit": "dligéixʼi át.",
+          "line_english": "were taken from their den.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 10,
+      "sentence_tlingit": "Keitl teen áwé yéi daadunéi nuch keitl teen.",
+      "sentence_english": "They were taken with the use of dogs, with the use of dogs.",
+      "lines": [
+        {
+          "line_number": 28,
+          "line_tlingit": "Keitl teen áwé yéi daadunéi nuch",
+          "line_english": "They were taken with the use of dogs,",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 29,
+          "line_tlingit": "keitl teen.",
+          "line_english": "with the use of dogs.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 11,
+      "sentence_tlingit": "Aag̱áa áwé a x̱ʼéit uwagút.",
+      "sentence_english": "That’s when they came to its entrance.",
+      "lines": [
+        {
+          "line_number": 30,
+          "line_tlingit": "Aag̱áa áwé",
+          "line_english": "That’s when",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 31,
+          "line_tlingit": "a x̱ʼéit uwagút.",
+          "line_english": "they came to its entrance.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 12,
+      "sentence_tlingit": "Du shát ḵudzitee wé ḵáa du shát ḵudzitee.",
+      "sentence_english": "The man had a wife, he had a wife.",
+      "lines": [
+        {
+          "line_number": 32,
+          "line_tlingit": "Du shát ḵudzitee",
+          "line_english": "The man",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 33,
+          "line_tlingit": "wé ḵáa",
+          "line_english": "had a wife,",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 34,
+          "line_tlingit": "du shát ḵudzitee.",
+          "line_english": "he had a wife.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 13,
+      "sentence_tlingit": "Wáa sáyá?",
+      "sentence_english": "Why was it?",
+      "lines": [
+        {
+          "line_number": 35,
+          "line_tlingit": "Wáa sáyá?",
+          "line_english": "Why was it?",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 14,
+      "sentence_tlingit": "Chʼu yeisú akoo.aag̱ú áyá ḵáaḵwx̱ daak uwagúdi yáx̱ áyú yatee.",
+      "sentence_english": "After trying for a while he stepped into a dangerous place.",
+      "lines": [
+        {
+          "line_number": 36,
+          "line_tlingit": "Chʼu yeisú akoo.aag̱ú áyá",
+          "line_english": "After trying for a while",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 37,
+          "line_tlingit": "ḵáaḵwx̱ daak uwagúdi yáx̱ áyú yatee.",
+          "line_english": "he stepped into a dangerous place.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 15,
+      "sentence_tlingit": "Xóots yóo duwasáagu át áwé.",
+      "sentence_english": "It was the animal called brown bear.",
+      "lines": [
+        {
+          "line_number": 38,
+          "line_tlingit": "Xóots yóo duwasáagu át áwé.",
+          "line_english": "It was the animal called brown bear.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 16,
+      "sentence_tlingit": "Héidu áxʼ yéi at kawdiyaayi yé, Kichx̱áandáx̱ haandé kaawaháa.",
+      "sentence_english": "Over here is where it happened, it happened on the near side of Ketchikan.",
+      "lines": [
+        {
+          "line_number": 39,
+          "line_tlingit": "Héidu áxʼ yéi at kawdiyaayi yé,",
+          "line_english": "Over here is where it happened,",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 40,
+          "line_tlingit": "Kichx̱áandáx̱ haandé kaawaháa.",
+          "line_english": "it happened on the near side of Ketchikan.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 17,
+      "sentence_tlingit": "Daḵká áwé.",
+      "sentence_english": "It was inland.",
+      "lines": [
+        {
+          "line_number": 41,
+          "line_tlingit": "Daḵká áwé.",
+          "line_english": "It was inland.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 18,
+      "sentence_tlingit": "Yees G̱eey yóo áwé duwasáakw Lingítch Dleit Ḵáach ḵwá Yes Bay.",
+      "sentence_english": "Yees G̱eey is what Tlingits call the place, but the White People call it Yes Bay.",
+      "lines": [
+        {
+          "line_number": 42,
+          "line_tlingit": "Yees G̱eey yóo áwé duwasáakw Lingítch",
+          "line_english": "Yees G̱eey is what Tlingits call the place,",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 43,
+          "line_tlingit": "Dleit Ḵáach ḵwá Yes Bay.",
+          "line_english": "but the White People call it Yes Bay.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 19,
+      "sentence_tlingit": "Áxʼ áwé yéi yan at kawdiyáa.",
+      "sentence_english": "That’s where this happened.",
+      "lines": [
+        {
+          "line_number": 44,
+          "line_tlingit": "Áxʼ áwé yéi yan at kawdiyáa.",
+          "line_english": "That’s where this happened.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 20,
+      "sentence_tlingit": "Wé héench áwé; aatlein héen áwé.",
+      "sentence_english": "There is a river there too, a large river.",
+      "lines": [
+        {
+          "line_number": 45,
+          "line_tlingit": "Wé héench áwé; aatlein héen áwé.",
+          "line_english": "There is a river there too, a large river.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 21,
+      "sentence_tlingit": "Haaw.",
+      "sentence_english": "Now,",
+      "lines": [
+        {
+          "line_number": 46,
+          "line_tlingit": "Haaw.",
+          "line_english": "Now,",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 22,
+      "sentence_tlingit": "Wáa nanéi sáwé?",
+      "sentence_english": "at what point was it?",
+      "lines": [
+        {
+          "line_number": 47,
+          "line_tlingit": "Wáa nanéi sáwé?",
+          "line_english": "at what point was it?",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 23,
+      "sentence_tlingit": "Chʼu yeisú chʼu yeisú akoo.aag̱ú áwé ash woosháat.",
+      "sentence_english": "While he was trying, while he was still trying, it grabbed him.",
+      "lines": [
+        {
+          "line_number": 48,
+          "line_tlingit": "Chʼu yeisú",
+          "line_english": "While he was trying,",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 49,
+          "line_tlingit": "chʼu yeisú akoo.aag̱ú áwé",
+          "line_english": "while he was still trying,",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 50,
+          "line_tlingit": "ash woosháat.",
+          "line_english": "it grabbed him.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 24,
+      "sentence_tlingit": "Tle ayawuyeigí áwé.",
+      "sentence_english": "It was while he was aiming at it.",
+      "lines": [
+        {
+          "line_number": 51,
+          "line_tlingit": "Tle ayawuyeigí áwé.",
+          "line_english": "It was while he was aiming at it.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 25,
+      "sentence_tlingit": "Tle a x̱ʼéit áwé uwagút wé at ḵoowú.",
+      "sentence_english": "He got right up to the entrance of its den.",
+      "lines": [
+        {
+          "line_number": 52,
+          "line_tlingit": "Tle a x̱ʼéit áwé uwagút",
+          "line_english": "He got right up to the entrance",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 53,
+          "line_tlingit": "wé at ḵoowú.",
+          "line_english": "of its den.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 26,
+      "sentence_tlingit": "Áwé gáani yux̱ woogoot wé át.",
+      "sentence_english": "The animal jumped out.",
+      "lines": [
+        {
+          "line_number": 54,
+          "line_tlingit": "Áwé gáani yux̱ woogoot",
+          "line_english": "The animal",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 55,
+          "line_tlingit": "wé át.",
+          "line_english": "jumped out.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 27,
+      "sentence_tlingit": "Aadé áwé neil ash uwax̱ích.",
+      "sentence_english": "It tossed him inside.",
+      "lines": [
+        {
+          "line_number": 56,
+          "line_tlingit": "Aadé áwé neil ash uwax̱ích.",
+          "line_english": "It tossed him inside.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 28,
+      "sentence_tlingit": "Ḵaju áwu gíwé gé du shát wé shéech aa xóots.",
+      "sentence_english": "Its mate was probably in there all along, that female brown bear.",
+      "lines": [
+        {
+          "line_number": 57,
+          "line_tlingit": "Ḵaju áwu gíwé gé du shát",
+          "line_english": "Its mate was probably in there all along,",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 58,
+          "line_tlingit": "wé shéech aa xóots.",
+          "line_english": "that female brown bear.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 29,
+      "sentence_tlingit": "Wé neilú á.",
+      "sentence_english": "She was inside.",
+      "lines": [
+        {
+          "line_number": 59,
+          "line_tlingit": "Wé neilú á.",
+          "line_english": "She was inside.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 30,
+      "sentence_tlingit": "Áyá a daa áyá aawasháat.",
+      "sentence_english": "He grabbed her private parts.",
+      "lines": [
+        {
+          "line_number": 60,
+          "line_tlingit": "Áyá a daa áyá aawasháat.",
+          "line_english": "He grabbed her private parts.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 31,
+      "sentence_tlingit": "Shaawát áwé du waḵshiyeexʼ.",
+      "sentence_english": "She looked like a woman to him.",
+      "lines": [
+        {
+          "line_number": 61,
+          "line_tlingit": "Shaawát áwé du waḵshiyeexʼ.",
+          "line_english": "She looked like a woman to him.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 32,
+      "sentence_tlingit": "Tle awusháadi áyá “Héidu áwé x̱at g̱asneix̱?” yóo áwé yaawaḵaa Kaatsʼ ḵu.aa.",
+      "sentence_english": "As he grabbed her Kaatsʼ said “Hey, why don't you help me?”",
+      "lines": [
+        {
+          "line_number": 62,
+          "line_tlingit": "Tle awusháadi áyá",
+          "line_english": "As he grabbed her",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 63,
+          "line_tlingit": "“Héidu áwé x̱at g̱asneix̱?”",
+          "line_english": "Kaatsʼ",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 64,
+          "line_tlingit": "yóo áwé yaawaḵaa",
+          "line_english": "said",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 65,
+          "line_tlingit": "Kaatsʼ ḵu.aa.",
+          "line_english": "“Hey, why don't you help me?”",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 33,
+      "sentence_tlingit": "Chʼu yeisú xʼóolʼ yáx̱ teeyí wé du x̱úx̱ wé gáan ldakát át ḵoowashée.",
+      "sentence_english": "While her mate was still confused outside he was searching all over.",
+      "lines": [
+        {
+          "line_number": 66,
+          "line_tlingit": "Chʼu yeisú xʼóolʼ yáx̱ teeyí wé du x̱úx̱ wé gáan",
+          "line_english": "While her mate was still confused outside",
+          "page_tlingit": "220",
+          "page_english": "221"
+        },
+        {
+          "line_number": 67,
+          "line_tlingit": "ldakát át ḵoowashée.",
+          "line_english": "he was searching all over.",
+          "page_tlingit": "220",
+          "page_english": "221"
+        }
+      ]
+    },
+    {
+      "sentence_number": 34,
+      "sentence_tlingit": "Wé átg̱aa ḵushée wé du keitlxʼí du keidlí yanax̱ áwé ash woox̱eech.",
+      "sentence_english": "While he was searching for those dogs of his, his dogs, she buried him.",
+      "lines": [
+        {
+          "line_number": 68,
+          "line_tlingit": "Wé átg̱aa ḵushée",
+          "line_english": "While he was searching",
+          "page_tlingit": "222",
+          "page_english": "221"
+        },
+        {
+          "line_number": 69,
+          "line_tlingit": "wé du keitlxʼí",
+          "line_english": "for those dogs of his,",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 70,
+          "line_tlingit": "du keidlí",
+          "line_english": "his dogs,",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 71,
+          "line_tlingit": "yanax̱ áwé ash woox̱eech.",
+          "line_english": "she buried him.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 35,
+      "sentence_tlingit": "Ách áyá at kookeidíx̱ sitee, “Ash tayee yá a káa yei s ḵéich.” Sdu yei.ádi haaw áwé sdu yei.ádix̱ sitee wé át.",
+      "sentence_english": "That’s why there’s a saying “underneath the thing they sit on.” Spruce boughs are their beds, the beds of those animals.",
+      "lines": [
+        {
+          "line_number": 72,
+          "line_tlingit": "Ách áyá at kookeidíx̱ sitee,",
+          "line_english": "That’s why there’s a saying",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 73,
+          "line_tlingit": "“Ash tayee",
+          "line_english": "“underneath",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 74,
+          "line_tlingit": "yá a káa yei s ḵéich.”",
+          "line_english": "the thing they sit on.”",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 75,
+          "line_tlingit": "Sdu yei.ádi haaw áwé sdu yei.ádix̱ sitee wé át.",
+          "line_english": "Spruce boughs are their beds, the beds of those animals.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 36,
+      "sentence_tlingit": "A káx̱ áwé loowatsaaḵ. Chʼáakwx̱ sateeyí áwé wéináx̱ neil uwagút.",
+      "sentence_english": "She lay face down. After a while the male bear came in.",
+      "lines": [
+        {
+          "line_number": 76,
+          "line_tlingit": "A káx̱ áwé loowatsaaḵ.",
+          "line_english": "She lay face down.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 77,
+          "line_tlingit": "Chʼáakwx̱ sateeyí áwé",
+          "line_english": "After a while",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 78,
+          "line_tlingit": "wéináx̱ neil uwagút.",
+          "line_english": "the male bear came in.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 37,
+      "sentence_tlingit": "Hít áwé hít áwé du waḵshiyeexʼ wé at ḵoowú ásíwégé.",
+      "sentence_english": "It was a house, it was a house in Kaatsʼ eyes although it was the den, wasn’t it?",
+      "lines": [
+        {
+          "line_number": 79,
+          "line_tlingit": "Hít áwé",
+          "line_english": "It was a house,",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 80,
+          "line_tlingit": "hít áwé",
+          "line_english": "it was a house",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 81,
+          "line_tlingit": "du waḵshiyeexʼ",
+          "line_english": "in Kaatsʼ eyes",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 82,
+          "line_tlingit": "wé at ḵoowú ásíwégé.",
+          "line_english": "although it was the den, wasn’t it?",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 38,
+      "sentence_tlingit": "“Goosú yáade neil x̱waax̱iji lingít” yóo áwé yaawaḵaa wé át.",
+      "sentence_english": "“Where is the human I threw in here?” the animal said.",
+      "lines": [
+        {
+          "line_number": 83,
+          "line_tlingit": "“Goosú yáade neil x̱waax̱iji lingít”",
+          "line_english": "“Where is the human I threw in here?”",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 84,
+          "line_tlingit": "yóo áwé yaawaḵaa wé át.",
+          "line_english": "the animal said.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 39,
+      "sentence_tlingit": "“Tsáaxʼ áwé yáadu á.",
+      "sentence_english": "“It was a mitten, here it is.",
+      "lines": [
+        {
+          "line_number": 85,
+          "line_tlingit": "“Tsáaxʼ áwé yáadu á.",
+          "line_english": "“It was a mitten, here it is.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 40,
+      "sentence_tlingit": "Tsáaxʼ áwé yáadu á.",
+      "sentence_english": "It was a mitten, here it is.",
+      "lines": [
+        {
+          "line_number": 86,
+          "line_tlingit": "Tsáaxʼ áwé yáadu á.",
+          "line_english": "It was a mitten, here it is.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 41,
+      "sentence_tlingit": "Wé yáanáx̱ neil iyatée, yáadu á.” A waḵkáx̱ wooshee du x̱úx̱. Aadé sh daa tuwditee yá ash daat jiwusḵóoxʼu wé shaawát ḵu.aa aadé sh daa tuwditee.",
+      "sentence_english": "That’s what you threw in here. Here it is.” She put her paws over her husband’s eyes. She felt something for Kaatsʼ when he touched her, the female bear, she felt something for him.",
+      "lines": [
+        {
+          "line_number": 87,
+          "line_tlingit": "Wé yáanáx̱ neil iyatée,",
+          "line_english": "That’s what you threw in here.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 88,
+          "line_tlingit": "yáadu á.”",
+          "line_english": "Here it is.”",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 89,
+          "line_tlingit": "A waḵkáx̱ wooshee du x̱úx̱.",
+          "line_english": "She put her paws over her husband’s eyes.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 90,
+          "line_tlingit": "Aadé sh daa tuwditee",
+          "line_english": "She felt something for Kaatsʼ",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 91,
+          "line_tlingit": "yá ash daat jiwusḵóoxʼu",
+          "line_english": "when he touched her,",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 92,
+          "line_tlingit": "wé shaawát ḵu.aa",
+          "line_english": "the female bear,",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 93,
+          "line_tlingit": "aadé sh daa tuwditee.",
+          "line_english": "she felt something for him.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 42,
+      "sentence_tlingit": "Tlél du tuwáa ushgú akawuneegí.",
+      "sentence_english": "She didn’t want to tell on him.",
+      "lines": [
+        {
+          "line_number": 94,
+          "line_tlingit": "Tlél du tuwáa ushgú akawuneegí.",
+          "line_english": "She didn’t want to tell on him.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 43,
+      "sentence_tlingit": "A waḵkáx̱ wooshee du x̱úx̱. Tlél aadé a náḵ nax̱wdzigeedi yé ḵoostí.",
+      "sentence_english": "She put her paws over her husband’s eyes. Kaatsʼ didn’t know what he was going to do.",
+      "lines": [
+        {
+          "line_number": 95,
+          "line_tlingit": "A waḵkáx̱ wooshee du x̱úx̱.",
+          "line_english": "She put her paws over her husband’s eyes.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 96,
+          "line_tlingit": "Tlél aadé a náḵ nax̱wdzigeedi yé ḵoostí.",
+          "line_english": "Kaatsʼ didn’t know what he was going to do.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 44,
+      "sentence_tlingit": "Nagútch gáande.",
+      "sentence_english": "The male bear would go out.",
+      "lines": [
+        {
+          "line_number": 97,
+          "line_tlingit": "Nagútch",
+          "line_english": "The male bear",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 98,
+          "line_tlingit": "gáande.",
+          "line_english": "would go out.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 45,
+      "sentence_tlingit": "Aag̱áa áwé ash shukoojeisʼ nuch.",
+      "sentence_english": "That’s when she would instruct him.",
+      "lines": [
+        {
+          "line_number": 99,
+          "line_tlingit": "Aag̱áa áwé ash shukoojeisʼ nuch.",
+          "line_english": "That’s when she would instruct him.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 46,
+      "sentence_tlingit": "“Tlél wáa sá ikg̱watee.",
+      "sentence_english": "“Nothing will happen to you.",
+      "lines": [
+        {
+          "line_number": 100,
+          "line_tlingit": "“Tlél wáa sá ikg̱watee.",
+          "line_english": "“Nothing will happen to you.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 47,
+      "sentence_tlingit": "Tlél wáa sá ikg̱watee.” Wáa nanéi sáyú át ḵoowaháa.",
+      "sentence_english": "Nothing will happen to you.” At one point, the moment came.",
+      "lines": [
+        {
+          "line_number": 101,
+          "line_tlingit": "Tlél wáa sá ikg̱watee.”",
+          "line_english": "Nothing will happen to you.”",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 102,
+          "line_tlingit": "Wáa nanéi sáyú át ḵoowaháa.",
+          "line_english": "At one point, the moment came.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 48,
+      "sentence_tlingit": "Tléixʼ dís tléixʼ taatx̱ áwé sitee du waḵshiyeexʼ hú ḵu.aa ḵach tléixʼ dís áwé.",
+      "sentence_english": "In Kaatsʼ eyes though, for him, one month was a night, here it was a month all the while.",
+      "lines": [
+        {
+          "line_number": 103,
+          "line_tlingit": "Tléixʼ dís",
+          "line_english": "In Kaatsʼ eyes though,",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 104,
+          "line_tlingit": "tléixʼ taatx̱ áwé sitee du waḵshiyeexʼ",
+          "line_english": "for him,",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 105,
+          "line_tlingit": "hú ḵu.aa",
+          "line_english": "one month was a night,",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 106,
+          "line_tlingit": "ḵach tléixʼ dís áwé.",
+          "line_english": "here it was a month all the while.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 49,
+      "sentence_tlingit": "Tlél ḵoostí Kaatsʼ ḵu.aa.",
+      "sentence_english": "But Kaatsʼ was gone.",
+      "lines": [
+        {
+          "line_number": 107,
+          "line_tlingit": "Tlél ḵoostí",
+          "line_english": "But Kaatsʼ",
+          "page_tlingit": "222",
+          "page_english": "223"
+        },
+        {
+          "line_number": 108,
+          "line_tlingit": "Kaatsʼ ḵu.aa.",
+          "line_english": "was gone.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 50,
+      "sentence_tlingit": "Hóochʼ.",
+      "sentence_english": "He was no more.",
+      "lines": [
+        {
+          "line_number": 109,
+          "line_tlingit": "Hóochʼ.",
+          "line_english": "He was no more.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 51,
+      "sentence_tlingit": "Ḵáaḵwt uwanéi.",
+      "sentence_english": "He had an accident.",
+      "lines": [
+        {
+          "line_number": 110,
+          "line_tlingit": "Ḵáaḵwt uwanéi.",
+          "line_english": "He had an accident.",
+          "page_tlingit": "222",
+          "page_english": "223"
+        }
+      ]
+    },
+    {
+      "sentence_number": 52,
+      "sentence_tlingit": "Hóochʼ áyú.",
+      "sentence_english": "He was no more.",
+      "lines": [
+        {
+          "line_number": 111,
+          "line_tlingit": "Hóochʼ áyú.",
+          "line_english": "He was no more.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 53,
+      "sentence_tlingit": "Tlél wuduskú goosú á.",
+      "sentence_english": "They didn’t know where he was.",
+      "lines": [
+        {
+          "line_number": 112,
+          "line_tlingit": "Tlél wuduskú goosú á.",
+          "line_english": "They didn’t know where he was.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 54,
+      "sentence_tlingit": "Ḵudushee nuch.",
+      "sentence_english": "They would search.",
+      "lines": [
+        {
+          "line_number": 113,
+          "line_tlingit": "Ḵudushee nuch.",
+          "line_english": "They would search.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 55,
+      "sentence_tlingit": "Du kéekʼ hás tlax̱ kikʼi.aa ḵudzitee aawasháa.",
+      "sentence_english": "Of his younger brothers the very youngest one had a wife.",
+      "lines": [
+        {
+          "line_number": 114,
+          "line_tlingit": "Du kéekʼ hás",
+          "line_english": "Of his younger brothers",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 115,
+          "line_tlingit": "tlax̱ kikʼi.aa ḵudzitee",
+          "line_english": "the very youngest one",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 116,
+          "line_tlingit": "aawasháa.",
+          "line_english": "had a wife.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 56,
+      "sentence_tlingit": "Du yáx̱ yées shaawát aawasháa wé kikʼi.aa.",
+      "sentence_english": "The youngest had a wife as young as he.",
+      "lines": [
+        {
+          "line_number": 117,
+          "line_tlingit": "Du yáx̱ yées shaawát aawasháa",
+          "line_english": "The youngest",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 118,
+          "line_tlingit": "wé kikʼi.aa.",
+          "line_english": "had a wife as young as he.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 57,
+      "sentence_tlingit": "Du húnx̱w ḵu.aa at sʼaatxʼí.",
+      "sentence_english": "His older brother was a master hunter.",
+      "lines": [
+        {
+          "line_number": 119,
+          "line_tlingit": "Du húnx̱w ḵu.aa",
+          "line_english": "His older brother",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 120,
+          "line_tlingit": "at sʼaatxʼí.",
+          "line_english": "was a master hunter.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 58,
+      "sentence_tlingit": "Áwé yéi yandusḵéich “héitʼaa ḵu.aa x̱áa déi du húnx̱u káx̱ ḵukg̱washée.” Duwaḵeet wududziteen áyú du x̱ʼus.eetí aáa jiwánnáx̱ yá héen yíx̱ kei wlishóo.",
+      "sentence_english": "They would say, “Why doesn’t this one find his older brother?” People were suspicious, his footprints were seen yes, alongside the bear footprints they went up alongside the river.",
+      "lines": [
+        {
+          "line_number": 121,
+          "line_tlingit": "Áwé yéi yandusḵéich “héitʼaa ḵu.aa x̱áa déi",
+          "line_english": "They would say, “Why doesn’t this one",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 122,
+          "line_tlingit": "du húnx̱u káx̱ ḵukg̱washée.”",
+          "line_english": "find his older brother?”",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 123,
+          "line_tlingit": "Duwaḵeet",
+          "line_english": "People were suspicious,",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 124,
+          "line_tlingit": "wududziteen áyú du x̱ʼus.eetí",
+          "line_english": "his footprints were seen",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 125,
+          "line_tlingit": "aáa",
+          "line_english": "yes,",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 126,
+          "line_tlingit": "jiwánnáx̱",
+          "line_english": "alongside the bear footprints",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 127,
+          "line_tlingit": "yá héen yíx̱ kei wlishóo.",
+          "line_english": "they went up alongside the river.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 59,
+      "sentence_tlingit": "Wáa sáyú yatseeneit x̱ʼusyík tʼaḵkáx̱ kei wlishóo yú ḵaa x̱ʼus.eetí.",
+      "sentence_english": "Why were this man’s footprints going up alongside the brown bear’s?",
+      "lines": [
+        {
+          "line_number": 128,
+          "line_tlingit": "Wáa sáyú",
+          "line_english": "Why",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 129,
+          "line_tlingit": "yatseeneit x̱ʼusyík tʼaḵkáx̱ kei wlishóo",
+          "line_english": "were this man’s footprints",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 130,
+          "line_tlingit": "yú ḵaa x̱ʼus.eetí.",
+          "line_english": "going up alongside the brown bear’s?",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 60,
+      "sentence_tlingit": "Aag̱áa áyá wduwaḵít “Átch gíyá wsineix̱” yóo x̱ʼayaduḵá.",
+      "sentence_english": "That’s when people became suspicious, “Perhaps he was taken by something,” is what people said.",
+      "lines": [
+        {
+          "line_number": 131,
+          "line_tlingit": "Aag̱áa áyá wduwaḵít",
+          "line_english": "That’s when people became suspicious,",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 132,
+          "line_tlingit": "“Átch gíyá wsineix̱”",
+          "line_english": "“Perhaps he was taken by something,”",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 133,
+          "line_tlingit": "yóo x̱ʼayaduḵá.",
+          "line_english": "is what people said.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 61,
+      "sentence_tlingit": "Aan yátxʼi yéi sh kalneek.",
+      "sentence_english": "Noble people said this.",
+      "lines": [
+        {
+          "line_number": 134,
+          "line_tlingit": "Aan yátxʼi yéi sh kalneek.",
+          "line_english": "Noble people said this.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 62,
+      "sentence_tlingit": "Chʼa aadé yéi nay.oo xʼwán.",
+      "sentence_english": "Please excuse this.",
+      "lines": [
+        {
+          "line_number": 135,
+          "line_tlingit": "Chʼa aadé yéi nay.oo xʼwán.",
+          "line_english": "Please excuse this.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 63,
+      "sentence_tlingit": "Xʼéig̱aa shkalneek áyá xʼéig̱aa shkalneek áyá.",
+      "sentence_english": "This is a true story, this is a true story.",
+      "lines": [
+        {
+          "line_number": 136,
+          "line_tlingit": "Xʼéig̱aa shkalneek áyá",
+          "line_english": "This is a true story,",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 137,
+          "line_tlingit": "xʼéig̱aa shkalneek áyá.",
+          "line_english": "this is a true story.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 64,
+      "sentence_tlingit": "Anax̱ wududzikuwu át áyá du x̱ʼéidáx̱ á áyá.",
+      "sentence_english": "This is how it’s known, this is from his lips.",
+      "lines": [
+        {
+          "line_number": 138,
+          "line_tlingit": "Anax̱ wududzikuwu át áyá",
+          "line_english": "This is how it’s known,",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 139,
+          "line_tlingit": "du x̱ʼéidáx̱",
+          "line_english": "this is",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 140,
+          "line_tlingit": "á áyá.",
+          "line_english": "from his lips.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 65,
+      "sentence_tlingit": "Keitl tóo akayanook.",
+      "sentence_english": "The bear would feel the approach of the dogs.",
+      "lines": [
+        {
+          "line_number": 141,
+          "line_tlingit": "Keitl",
+          "line_english": "The bear would feel the approach",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 142,
+          "line_tlingit": "tóo akayanook.",
+          "line_english": "of the dogs.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 66,
+      "sentence_tlingit": "Yú neilxʼ áyú g̱agaan x̱ʼoos áwé oowayáa.",
+      "sentence_english": "In the den they seem like sunbeams.",
+      "lines": [
+        {
+          "line_number": 143,
+          "line_tlingit": "Yú neilxʼ áyú g̱agaan x̱ʼoos áwé oowayáa.",
+          "line_english": "In the den they seem like sunbeams.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 67,
+      "sentence_tlingit": "Neildé koodagánch neildé.",
+      "sentence_english": "They would shine in, into the den.",
+      "lines": [
+        {
+          "line_number": 144,
+          "line_tlingit": "Neildé",
+          "line_english": "They would shine in,",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 145,
+          "line_tlingit": "koodagánch neildé.",
+          "line_english": "into the den.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 68,
+      "sentence_tlingit": "G̱agaan x̱ʼoos áwé oowayáa wé keitl tundatáani áwé, wé áa kdahánch, wé shaawát.",
+      "sentence_english": "The dogs’ thoughts seem like sunbeams; the woman would jump up to reach for them.",
+      "lines": [
+        {
+          "line_number": 146,
+          "line_tlingit": "G̱agaan x̱ʼoos áwé oowayáa",
+          "line_english": "The dogs’ thoughts",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 147,
+          "line_tlingit": "wé keitl tundatáani áwé,",
+          "line_english": "seem like sunbeams;",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 148,
+          "line_tlingit": "wé áa kdahánch,",
+          "line_english": "the woman",
+          "page_tlingit": "224",
+          "page_english": "225"
+        },
+        {
+          "line_number": 149,
+          "line_tlingit": "wé shaawát.",
+          "line_english": "would jump up to reach for them.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 69,
+      "sentence_tlingit": "Tlél yóo s awoodláḵkw.",
+      "sentence_english": "They couldn’t find him.",
+      "lines": [
+        {
+          "line_number": 150,
+          "line_tlingit": "Tlél yóo s awoodláḵkw.",
+          "line_english": "They couldn’t find him.",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 70,
+      "sentence_tlingit": "Goosú á hú?",
+      "sentence_english": "Where was he?",
+      "lines": [
+        {
+          "line_number": 151,
+          "line_tlingit": "Goosú á hú?",
+          "line_english": "Where was he?",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 71,
+      "sentence_tlingit": "Ldakát yéit ḵudushée.",
+      "sentence_english": "People searched everywhere",
+      "lines": [
+        {
+          "line_number": 152,
+          "line_tlingit": "Ldakát yéit ḵudushée.",
+          "line_english": "People searched everywhere",
+          "page_tlingit": "224",
+          "page_english": "225"
+        }
+      ]
+    },
+    {
+      "sentence_number": 72,
+      "sentence_tlingit": "Tlél du yaḵaayí ḵoostí yú kikʼi.aa ḵu.aa “Héitʼaa ḵu.aa x̱áa déi.” Wuduziteen áyú du x̱ʼus.eetí.",
+      "sentence_english": "But the younger brother wasn’t saying anything. “Why not him?” they were saying. His footprints were seen.",
+      "lines": [
+        {
+          "line_number": 153,
+          "line_tlingit": "Tlél du yaḵaayí ḵoostí",
+          "line_english": "But the younger brother",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 154,
+          "line_tlingit": "yú kikʼi.aa ḵu.aa",
+          "line_english": "wasn’t saying anything.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 155,
+          "line_tlingit": "“Héitʼaa ḵu.aa x̱áa déi.”",
+          "line_english": "“Why not him?” they were saying.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 156,
+          "line_tlingit": "Wuduziteen áyú du x̱ʼus.eetí.",
+          "line_english": "His footprints were seen.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 73,
+      "sentence_tlingit": "“Héitʼaa ḵu.aa x̱áa déi du húnx̱w du húnx̱wg̱aa ḵukg̱washée” yóo áyú yandusḵéich du húnx̱u hásch wé kikʼi.aa.",
+      "sentence_english": "“Why can’t he find his older brother?” is what the older brothers said about their younger brother.",
+      "lines": [
+        {
+          "line_number": 157,
+          "line_tlingit": "“Héitʼaa ḵu.aa x̱áa déi du húnx̱w",
+          "line_english": "“Why can’t he",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 158,
+          "line_tlingit": "du húnx̱wg̱aa ḵukg̱washée”",
+          "line_english": "find his older brother?”",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 159,
+          "line_tlingit": "yóo áyú yandusḵéich du húnx̱u hásch",
+          "line_english": "is what the older brothers said",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 160,
+          "line_tlingit": "wé kikʼi.aa.",
+          "line_english": "about their younger brother.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 74,
+      "sentence_tlingit": "Du shát shawatshaan.",
+      "sentence_english": "His wife was an old woman.",
+      "lines": [
+        {
+          "line_number": 161,
+          "line_tlingit": "Du shát",
+          "line_english": "His wife",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 162,
+          "line_tlingit": "shawatshaan.",
+          "line_english": "was an old woman.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 75,
+      "sentence_tlingit": "Wáa nanéi sáyú át koowaháa.",
+      "sentence_english": "At one point the moment came.",
+      "lines": [
+        {
+          "line_number": 163,
+          "line_tlingit": "Wáa nanéi sáyú át koowaháa.",
+          "line_english": "At one point the moment came.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 76,
+      "sentence_tlingit": "Du keitlxʼí “At X̱ʼéeshi Gwálaa” yóo ayasáakw tléixʼ aa du keidlí.",
+      "sentence_english": "His dogs, “At X̱’éeshi Gwálaa” is the name of one of his dogs.",
+      "lines": [
+        {
+          "line_number": 164,
+          "line_tlingit": "Du keitlxʼí",
+          "line_english": "His dogs,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 165,
+          "line_tlingit": "“At X̱ʼéeshi Gwálaa”",
+          "line_english": "“At X̱’éeshi Gwálaa”",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 166,
+          "line_tlingit": "yóo ayasáakw tléixʼ aa du keidlí.",
+          "line_english": "is the name of one of his dogs.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 77,
+      "sentence_tlingit": "Tleixʼ aa ḵwá “Shaayeesxwáa.” Tléixʼ aa ḵu.aa kát x̱at seiwaxʼákw.",
+      "sentence_english": "The other was “Shaayeesxwáa.” But I forget the other one.",
+      "lines": [
+        {
+          "line_number": 167,
+          "line_tlingit": "Tleixʼ aa ḵwá “Shaayeesxwáa.”",
+          "line_english": "The other was “Shaayeesxwáa.”",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 168,
+          "line_tlingit": "Tléixʼ aa ḵu.aa",
+          "line_english": "But I forget",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 169,
+          "line_tlingit": "kát x̱at seiwaxʼákw.",
+          "line_english": "the other one.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 78,
+      "sentence_tlingit": "Násʼk keitl tle number one Shaayeesxwáa.",
+      "sentence_english": "Three dogs, first class, Shaayeesxwáa.",
+      "lines": [
+        {
+          "line_number": 170,
+          "line_tlingit": "Násʼk keitl",
+          "line_english": "Three dogs,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 171,
+          "line_tlingit": "tle number one",
+          "line_english": "first class,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 172,
+          "line_tlingit": "Shaayeesxwáa.",
+          "line_english": "Shaayeesxwáa.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 79,
+      "sentence_tlingit": "Áwé wáa nanéi sáwé yéi yaawaḵaa “ax̱ téeli yan sané xʼwán ax̱ téeli kḵwagóot chʼa ḵukḵwashée áwé.” Ḵach hóoch ḵu.aa síyú gé a káx̱ ḵukg̱washée du húnx̱w gé?",
+      "sentence_english": "Then at one point the younger brother asked his wife, “Can you get my shoes ready, my shoes, I’ll go to search.” But he was the one who would find his older brother, wasn’t he?",
+      "lines": [
+        {
+          "line_number": 173,
+          "line_tlingit": "Áwé",
+          "line_english": "Then",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 174,
+          "line_tlingit": "wáa nanéi sáwé yéi yaawaḵaa",
+          "line_english": "at one point the younger brother asked his wife,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 175,
+          "line_tlingit": "“ax̱ téeli yan sané xʼwán",
+          "line_english": "“Can you get my shoes ready,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 176,
+          "line_tlingit": "ax̱ téeli",
+          "line_english": "my shoes,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 177,
+          "line_tlingit": "kḵwagóot",
+          "line_english": "I’ll go",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 178,
+          "line_tlingit": "chʼa ḵukḵwashée áwé.”",
+          "line_english": "to search.”",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 179,
+          "line_tlingit": "Ḵach hóoch ḵu.aa síyú gé a káx̱ ḵukg̱washée du húnx̱w gé?",
+          "line_english": "But he was the one who would find his older brother, wasn’t he?",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 80,
+      "sentence_tlingit": "Woosh wooxʼáanxʼ yú xʼáan sʼaatxʼí ḵu.aa.",
+      "sentence_english": "But the angry men were becoming quarrelsome.",
+      "lines": [
+        {
+          "line_number": 180,
+          "line_tlingit": "Woosh wooxʼáanxʼ yú xʼáan sʼaatxʼí ḵu.aa.",
+          "line_english": "But the angry men were becoming quarrelsome.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 81,
+      "sentence_tlingit": "Wáa nanéi sáwé yéi yaawaḵaa wé shaawát, “Haahá.",
+      "sentence_english": "At one point the female bear said, “I see.",
+      "lines": [
+        {
+          "line_number": 181,
+          "line_tlingit": "Wáa nanéi sáwé yéi yaawaḵaa wé shaawát,",
+          "line_english": "At one point the female bear said,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 182,
+          "line_tlingit": "“Haahá.",
+          "line_english": "“I see.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 82,
+      "sentence_tlingit": "Iyatéen gé?",
+      "sentence_english": "Do you see?",
+      "lines": [
+        {
+          "line_number": 183,
+          "line_tlingit": "Iyatéen gé?",
+          "line_english": "Do you see?",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 83,
+      "sentence_tlingit": "Iyatéen gé?” Áxʼ áwé ash waḵkooḵá áa wdihaan tsu áa kdahánch.",
+      "sentence_english": "Do you see?” She told him to look there. She would jump up to grab them, she would jump up to grab them again.",
+      "lines": [
+        {
+          "line_number": 184,
+          "line_tlingit": "Iyatéen gé?”",
+          "line_english": "Do you see?”",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 185,
+          "line_tlingit": "Áxʼ áwé ash waḵkooḵá",
+          "line_english": "She told him to look there.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 186,
+          "line_tlingit": "áa wdihaan",
+          "line_english": "She would jump up to grab them,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 187,
+          "line_tlingit": "tsu áa kdahánch.",
+          "line_english": "she would jump up to grab them again.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 84,
+      "sentence_tlingit": "Tléikʼ, tlél ḵúx̱de yóo udatí chʼu yéi adaaneiyí áwé x̱ʼawoolt loowagúḵ wé át.",
+      "sentence_english": "No, it wasn’t slowing down, while she was still doing this they tracked to the entrance.",
+      "lines": [
+        {
+          "line_number": 188,
+          "line_tlingit": "Tléikʼ,",
+          "line_english": "No,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 189,
+          "line_tlingit": "tlél ḵúx̱de yóo udatí",
+          "line_english": "it wasn’t slowing down,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 190,
+          "line_tlingit": "chʼu yéi adaaneiyí áwé x̱ʼawoolt loowagúḵ wé át.",
+          "line_english": "while she was still doing this they tracked to the entrance.",
+          "page_tlingit": "226",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 85,
+      "sentence_tlingit": "Ách áwé yá yeedát xóots xóots a ḵoowú yeeysikóo aan yátxʼi daaxʼoon x̱ʼadakítʼx̱ woosh géide aa a yeewú aa.",
+      "sentence_english": "That’s why bears today, in bear dens, you know, these noble children make four barriers one after the other on the inside.",
+      "lines": [
+        {
+          "line_number": 191,
+          "line_tlingit": "Ách áwé yá yeedát xóots",
+          "line_english": "That’s why bears today,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 192,
+          "line_tlingit": "xóots a ḵoowú yeeysikóo",
+          "line_english": "in bear dens, you know,",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 193,
+          "line_tlingit": "aan yátxʼi daaxʼoon x̱ʼadakítʼx̱",
+          "line_english": "these noble children make four barriers",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 194,
+          "line_tlingit": "woosh géide",
+          "line_english": "one after the other",
+          "page_tlingit": "226",
+          "page_english": "227"
+        },
+        {
+          "line_number": 195,
+          "line_tlingit": "aa a yeewú aa.",
+          "line_english": "on the inside.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 86,
+      "sentence_tlingit": "Á anax̱ áwé x̱ʼadakítʼx̱ á anax̱ áwé yeedát yéi kwdayéin.",
+      "sentence_english": "Because of what happened they make barriers, because of what happened it’s this way today.",
+      "lines": [
+        {
+          "line_number": 196,
+          "line_tlingit": "Á anax̱ áwé",
+          "line_english": "Because of what happened",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 197,
+          "line_tlingit": "x̱ʼadakítʼx̱",
+          "line_english": "they make barriers,",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 198,
+          "line_tlingit": "á anax̱ áwé",
+          "line_english": "because of what happened",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 199,
+          "line_tlingit": "yeedát yéi kwdayéin.",
+          "line_english": "it’s this way today.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 87,
+      "sentence_tlingit": "Aag̱áa yú gaaw ḵu.aa ayaawadlaaḵ wé chʼa yeisú yéi at ḵunoogú áwé x̱ʼawoolt loowagúḵ wé keitl.",
+      "sentence_english": "But at that time he reached there, those dogs tracked right to the entrance while she was still doing this.",
+      "lines": [
+        {
+          "line_number": 200,
+          "line_tlingit": "Aag̱áa yú gaaw ḵu.aa",
+          "line_english": "But at that time",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 201,
+          "line_tlingit": "ayaawadlaaḵ wé",
+          "line_english": "he reached there,",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 202,
+          "line_tlingit": "chʼa yeisú yéi at ḵunoogú áwé x̱ʼawoolt loowagúḵ wé keitl.",
+          "line_english": "those dogs tracked right to the entrance while she was still doing this.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 88,
+      "sentence_tlingit": "Aadé s yadaxún wé at ḵoowú x̱ʼé.",
+      "sentence_english": "They pointed their noses to the mouth of the den.",
+      "lines": [
+        {
+          "line_number": 203,
+          "line_tlingit": "Aadé s yadaxún wé at ḵoowú x̱ʼé.",
+          "line_english": "They pointed their noses to the mouth of the den.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 89,
+      "sentence_tlingit": "Ayaawatín du keitlxʼí.",
+      "sentence_english": "He recognized his dogs.",
+      "lines": [
+        {
+          "line_number": 204,
+          "line_tlingit": "Ayaawatín du keitlxʼí.",
+          "line_english": "He recognized his dogs.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 90,
+      "sentence_tlingit": "“Ax̱ keidlí!” á áwé “Gu.aa yáx̱ xʼwán,” yóo áwé ash yawsiḵaa.",
+      "sentence_english": "“My dogs!” he said, “Be brave,” he said to them.",
+      "lines": [
+        {
+          "line_number": 205,
+          "line_tlingit": "“Ax̱ keidlí!”",
+          "line_english": "“My dogs!”",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 206,
+          "line_tlingit": "á áwé",
+          "line_english": "he said,",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 207,
+          "line_tlingit": "“Gu.aa yáx̱ xʼwán,”",
+          "line_english": "“Be brave,”",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 208,
+          "line_tlingit": "yóo áwé ash yawsiḵaa.",
+          "line_english": "he said to them.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 91,
+      "sentence_tlingit": "“I gu.aa yáx̱ xʼwán.” Tlél aadé nax̱wdzigeedi yé.",
+      "sentence_english": "“Be brave.” He didn’t know what he was going to do.",
+      "lines": [
+        {
+          "line_number": 209,
+          "line_tlingit": "“I gu.aa yáx̱ xʼwán.”",
+          "line_english": "“Be brave.”",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 210,
+          "line_tlingit": "Tlél aadé nax̱wdzigeedi yé.",
+          "line_english": "He didn’t know what he was going to do.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 92,
+      "sentence_tlingit": "Tlél áyú yú óonaa ḵaa jee.",
+      "sentence_english": "There were no guns.",
+      "lines": [
+        {
+          "line_number": 211,
+          "line_tlingit": "Tlél áyú yú óonaa ḵaa jee.",
+          "line_english": "There were no guns.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 93,
+      "sentence_tlingit": "Yú át chooneit áwé.",
+      "sentence_english": "Those things were bow and arrow.",
+      "lines": [
+        {
+          "line_number": 212,
+          "line_tlingit": "Yú át",
+          "line_english": "Those things",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 213,
+          "line_tlingit": "chooneit áwé.",
+          "line_english": "were bow and arrow.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 94,
+      "sentence_tlingit": "Óonaa yáanáx̱ litseen.",
+      "sentence_english": "They were more powerful than guns.",
+      "lines": [
+        {
+          "line_number": 214,
+          "line_tlingit": "Óonaa yáanáx̱ litseen.",
+          "line_english": "They were more powerful than guns.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 95,
+      "sentence_tlingit": "Aa x̱wsiteen.",
+      "sentence_english": "I saw some.",
+      "lines": [
+        {
+          "line_number": 215,
+          "line_tlingit": "Aa x̱wsiteen.",
+          "line_english": "I saw some.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 96,
+      "sentence_tlingit": "G̱án, yéi áwé kwdliyáatʼ.",
+      "sentence_english": "See, they were this long.",
+      "lines": [
+        {
+          "line_number": 216,
+          "line_tlingit": "G̱án, yéi áwé kwdliyáatʼ.",
+          "line_english": "See, they were this long.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 97,
+      "sentence_tlingit": "Kasiyéi.",
+      "sentence_english": "Strange looking.",
+      "lines": [
+        {
+          "line_number": 217,
+          "line_tlingit": "Kasiyéi.",
+          "line_english": "Strange looking.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 98,
+      "sentence_tlingit": "Yú ksatán yáaxʼ yú at doogú a kadzaasí litseen.",
+      "sentence_english": "The bow was curved right here, and strung with hide, it was strong.",
+      "lines": [
+        {
+          "line_number": 218,
+          "line_tlingit": "Yú ksatán yáaxʼ yú at doogú a kadzaasí",
+          "line_english": "The bow was curved right here, and strung with hide,",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 219,
+          "line_tlingit": "litseen.",
+          "line_english": "it was strong.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 99,
+      "sentence_tlingit": "Wé a lú aa ḵwá yéi kwdiyáatʼ.",
+      "sentence_english": "But the points were this long.",
+      "lines": [
+        {
+          "line_number": 220,
+          "line_tlingit": "Wé a lú aa ḵwá yéi kwdiyáatʼ.",
+          "line_english": "But the points were this long.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 100,
+      "sentence_tlingit": "Sʼaaḵ. Kʼwátʼ yáx̱ kadixwásʼ; a shuyatóox̱ dutsaaḵ. A tóotx̱ yóox̱ xeex.",
+      "sentence_english": "Bones. They were round like eggs; they were inserted into the end of the point. It detaches itself.",
+      "lines": [
+        {
+          "line_number": 221,
+          "line_tlingit": "Sʼaaḵ.",
+          "line_english": "Bones.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 222,
+          "line_tlingit": "Kʼwátʼ yáx̱ kadixwásʼ; a shuyatóox̱ dutsaaḵ.",
+          "line_english": "They were round like eggs; they were inserted into the end of the point.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 223,
+          "line_tlingit": "A tóotx̱ yóox̱ xeex.",
+          "line_english": "It detaches itself.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 101,
+      "sentence_tlingit": "A tóode yoo yaxíxk yú át.",
+      "sentence_english": "It attaches itself inside the target.",
+      "lines": [
+        {
+          "line_number": 224,
+          "line_tlingit": "A tóode yoo yaxíxk yú át.",
+          "line_english": "It attaches itself inside the target.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 102,
+      "sentence_tlingit": "Tle at katé áwé.",
+      "sentence_english": "It was just like a bullet.",
+      "lines": [
+        {
+          "line_number": 225,
+          "line_tlingit": "Tle at katé áwé.",
+          "line_english": "It was just like a bullet.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 103,
+      "sentence_tlingit": "Yéi áwé at eenín lingít.",
+      "sentence_english": "That’s how Tlingits killed things.",
+      "lines": [
+        {
+          "line_number": 226,
+          "line_tlingit": "Yéi áwé at eenín lingít.",
+          "line_english": "That’s how Tlingits killed things.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 104,
+      "sentence_tlingit": "Chʼu yeisú a daa yoo jikool.átgi áwé. (Slap!) Tlél aadé nax̱wdzigeedi yé.",
+      "sentence_english": "While he was still trying to get ready (Slap!) Kaatsʼ didn’t know what he was going to do.",
+      "lines": [
+        {
+          "line_number": 227,
+          "line_tlingit": "Chʼu yeisú",
+          "line_english": "While he was still",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 228,
+          "line_tlingit": "a daa yoo jikool.átgi áwé. (Slap!)",
+          "line_english": "trying to get ready (Slap!)",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 229,
+          "line_tlingit": "Tlél aadé nax̱wdzigeedi yé.",
+          "line_english": "Kaatsʼ didn’t know what he was going to do.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 105,
+      "sentence_tlingit": "X̱wasikóo du saayí.",
+      "sentence_english": "I knew the brother’s name.",
+      "lines": [
+        {
+          "line_number": 230,
+          "line_tlingit": "X̱wasikóo du saayí.",
+          "line_english": "I knew the brother’s name.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 106,
+      "sentence_tlingit": "Chʼu tle ḵúnáx̱ áwé xʼóolʼ yáx̱ x̱at yatee yá lidzée.",
+      "sentence_english": "When I get mixed up, it’s difficult. It’s really difficult, my good woman.",
+      "lines": [
+        {
+          "line_number": 231,
+          "line_tlingit": "Chʼu tle ḵúnáx̱ áwé xʼóolʼ yáx̱",
+          "line_english": "When I get mixed up,",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 232,
+          "line_tlingit": "x̱at yatee",
+          "line_english": "it’s difficult.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        },
+        {
+          "line_number": 233,
+          "line_tlingit": "yá lidzée.",
+          "line_english": "It’s really difficult, my good woman.",
+          "page_tlingit": "228",
+          "page_english": "227"
+        }
+      ]
+    },
+    {
+      "sentence_number": 107,
+      "sentence_tlingit": "Lidzée cha shaatkʼ.",
+      "sentence_english": "Sometime",
+      "lines": [
+        {
+          "line_number": 234,
+          "line_tlingit": "Lidzée cha shaatkʼ.",
+          "line_english": "Sometime",
+          "page_tlingit": "228",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 108,
+      "sentence_tlingit": "Sometimes tsá a káa daak tux̱wdateení i xʼúxʼ káa yéi kg̱watée.",
+      "sentence_english": "when I think of it, we’ll put it down on paper. You have a good mind.",
+      "lines": [
+        {
+          "line_number": 235,
+          "line_tlingit": "Sometimes tsá",
+          "line_english": "when I think of it, we’ll put it down on paper.",
+          "page_tlingit": "228",
+          "page_english": "231"
+        },
+        {
+          "line_number": 236,
+          "line_tlingit": "a káa daak tux̱wdateení i xʼúxʼ káa yéi kg̱watée.",
+          "line_english": "You have a good mind.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 109,
+      "sentence_tlingit": "Aakʼé yaa ḵoosgé i jeewú á.",
+      "sentence_english": "Good.",
+      "lines": [
+        {
+          "line_number": 237,
+          "line_tlingit": "Aakʼé yaa ḵoosgé i jeewú á.",
+          "line_english": "Good.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 110,
+      "sentence_tlingit": "Yakʼéi.",
+      "sentence_english": "Now.",
+      "lines": [
+        {
+          "line_number": 238,
+          "line_tlingit": "Yakʼéi.",
+          "line_english": "Now.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 111,
+      "sentence_tlingit": "Áwé yéi ayawsiḵaa Shaayeesxwáa “Yeedát awéigích ix̱ʼadaxwétlx̱ ashaa.” Ayalatín du húnx̱w.",
+      "sentence_english": "Then Kaatsʼ said to Shaayeesxwáa, “If only you’d stop barking.” He stared at his older brother.",
+      "lines": [
+        {
+          "line_number": 240,
+          "line_tlingit": "Áwé",
+          "line_english": "Then",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 241,
+          "line_tlingit": "yéi ayawsiḵaa",
+          "line_english": "Kaatsʼ said",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 242,
+          "line_tlingit": "Shaayeesxwáa",
+          "line_english": "to Shaayeesxwáa,",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 243,
+          "line_tlingit": "“Yeedát awéigích ix̱ʼadaxwétlx̱ ashaa.”",
+          "line_english": "“If only you’d stop barking.”",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 244,
+          "line_tlingit": "Ayalatín du húnx̱w.",
+          "line_english": "He stared at his older brother.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 112,
+      "sentence_tlingit": "Tléixʼ.aa tsú ayaawatín.",
+      "sentence_english": "Kaatsʼ recognized the other dog too.",
+      "lines": [
+        {
+          "line_number": 245,
+          "line_tlingit": "Tléixʼ.aa tsú ayaawatín.",
+          "line_english": "Kaatsʼ recognized the other dog too.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 113,
+      "sentence_tlingit": "“Ix̱ʼadaxwétl déi.” A x̱ʼawoolxʼ yúx̱ yawdzi.aa du kéekʼ gwáawéigé ash yalatín.",
+      "sentence_english": "“Stop barking now!” He looked out of the mouth of the den, why, that was his younger brother, he stared at him.",
+      "lines": [
+        {
+          "line_number": 246,
+          "line_tlingit": "“Ix̱ʼadaxwétl déi.”",
+          "line_english": "“Stop barking now!”",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 247,
+          "line_tlingit": "A x̱ʼawoolxʼ yúx̱ yawdzi.aa",
+          "line_english": "He looked out of the mouth of the den,",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 248,
+          "line_tlingit": "du kéekʼ gwáawéigé",
+          "line_english": "why, that was his younger brother,",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 249,
+          "line_tlingit": "ash yalatín.",
+          "line_english": "he stared at him.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 114,
+      "sentence_tlingit": "“Tlél wáa sá x̱at utí x̱át áyá x̱ʼawug̱ané déi.” Ayalatín du húnx̱w.",
+      "sentence_english": "“I’m all right, it’s me, tell him to stop barking.” He stared at his older brother.",
+      "lines": [
+        {
+          "line_number": 250,
+          "line_tlingit": "“Tlél wáa sá x̱at utí",
+          "line_english": "“I’m all right,",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 251,
+          "line_tlingit": "x̱át áyá",
+          "line_english": "it’s me,",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 252,
+          "line_tlingit": "x̱ʼawug̱ané déi.”",
+          "line_english": "tell him to stop barking.”",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 253,
+          "line_tlingit": "Ayalatín du húnx̱w.",
+          "line_english": "He stared at his older brother.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 115,
+      "sentence_tlingit": "“Yáadu x̱át!” “Yáadu x̱át!” Tléixʼ táakw áwé de tléil ḵoostí x̱á.",
+      "sentence_english": "“Here I am! Here I am!” He had been gone for one year, you see.",
+      "lines": [
+        {
+          "line_number": 254,
+          "line_tlingit": "“Yáadu x̱át!”",
+          "line_english": "“Here I am!",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 255,
+          "line_tlingit": "“Yáadu x̱át!”",
+          "line_english": "Here I am!”",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 256,
+          "line_tlingit": "Tléixʼ táakw áwé de tléil ḵoostí x̱á.",
+          "line_english": "He had been gone for one year, you see.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 116,
+      "sentence_tlingit": "Hóoch áwé ayaawadlaaḵ du húnx̱w.",
+      "sentence_english": "It was he who found his older brother.",
+      "lines": [
+        {
+          "line_number": 257,
+          "line_tlingit": "Hóoch áwé ayaawadlaaḵ du húnx̱w.",
+          "line_english": "It was he who found his older brother.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 117,
+      "sentence_tlingit": "“Hél keeneegéeḵ xʼwán hél keeneegéeḵ tsu haadé kg̱eegóot.",
+      "sentence_english": "“Please don’t tell this, don’t tell, come back again.",
+      "lines": [
+        {
+          "line_number": 258,
+          "line_tlingit": "“Hél keeneegéeḵ xʼwán",
+          "line_english": "“Please don’t tell this,",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 259,
+          "line_tlingit": "hél keeneegéeḵ",
+          "line_english": "don’t tell,",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 260,
+          "line_tlingit": "tsu haadé kg̱eegóot.",
+          "line_english": "come back again.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 118,
+      "sentence_tlingit": "Haadé kg̱eegóot.” Du tuwáa sigóowu át a káa yan ayawsiḵáa daa sá ash tuwáa sagoowú yú éeḵdáx̱. “Hél keeneegéeḵ!” Yóot loowagúḵ yú keitlxʼ.",
+      "sentence_english": "Come back.” He asked him to get what he needed, whatever he needed from the coast. “Don’t tell.” The dogs ran on home.",
+      "lines": [
+        {
+          "line_number": 261,
+          "line_tlingit": "Haadé kg̱eegóot.”",
+          "line_english": "Come back.”",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 262,
+          "line_tlingit": "Du tuwáa sigóowu át a káa yan ayawsiḵáa",
+          "line_english": "He asked him to get what he needed,",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 263,
+          "line_tlingit": "daa sá ash tuwáa sagoowú",
+          "line_english": "whatever he needed",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 264,
+          "line_tlingit": "yú éeḵdáx̱.",
+          "line_english": "from the coast.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 265,
+          "line_tlingit": "“Hél keeneegéeḵ!”",
+          "line_english": "“Don’t tell.”",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 266,
+          "line_tlingit": "Yóot loowagúḵ yú keitlxʼ.",
+          "line_english": "The dogs ran on home.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 119,
+      "sentence_tlingit": "Wáa sáyú chʼáakw áyú hasdu een yoo aya.átk yú keitl.",
+      "sentence_english": "Why? The dogs had gone with them many times before.",
+      "lines": [
+        {
+          "line_number": 267,
+          "line_tlingit": "Wáa sáyú",
+          "line_english": "Why?",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 268,
+          "line_tlingit": "chʼáakw áyú hasdu een yoo aya.átk yú keitl.",
+          "line_english": "The dogs had gone with them many times before.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 120,
+      "sentence_tlingit": "Toowú sagú yo-ho-ho-ho tle kéi s da.átch.",
+      "sentence_english": "They were so happy yo-ho-ho-ho they’d jump up on their hind legs.",
+      "lines": [
+        {
+          "line_number": 269,
+          "line_tlingit": "Toowú sagú",
+          "line_english": "They were so happy",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 270,
+          "line_tlingit": "yo-ho-ho-ho",
+          "line_english": "yo-ho-ho-ho",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 271,
+          "line_tlingit": "tle kéi s da.átch.",
+          "line_english": "they’d jump up on their hind legs.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 121,
+      "sentence_tlingit": "Tle s wududziteen.",
+      "sentence_english": "People could see them.",
+      "lines": [
+        {
+          "line_number": 272,
+          "line_tlingit": "Tle s wududziteen.",
+          "line_english": "People could see them.",
+          "page_tlingit": "230",
+          "page_english": "231"
+        }
+      ]
+    },
+    {
+      "sentence_number": 122,
+      "sentence_tlingit": "Toowú sagú áyú s duwaḵeet “Wáa sáhé tláx̱ sdu toowú sigóo hé keitl.” Tlél du yaḵaayí ḵoostí.",
+      "sentence_english": "The dogs were so happy people got suspicious and said, “Why are these dogs so happy?” He had nothing to say.",
+      "lines": [
+        {
+          "line_number": 273,
+          "line_tlingit": "Toowú sagú",
+          "line_english": "The dogs were so happy",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 274,
+          "line_tlingit": "áyú s duwaḵeet",
+          "line_english": "people got suspicious",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 275,
+          "line_tlingit": "“Wáa sáhé tláx̱ sdu toowú sigóo hé keitl.”",
+          "line_english": "and said, “Why are these dogs so happy?”",
+          "page_tlingit": "230",
+          "page_english": "231"
+        },
+        {
+          "line_number": 276,
+          "line_tlingit": "Tlél du yaḵaayí ḵoostí.",
+          "line_english": "He had nothing to say.",
+          "page_tlingit": "230",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 123,
+      "sentence_tlingit": "Wé du shát teen akaawaneek x̱á, “X̱wasiteen ax̱ húnx̱w.",
+      "sentence_english": "He told his wife, you see, “I saw my older brother.",
+      "lines": [
+        {
+          "line_number": 277,
+          "line_tlingit": "Wé du shát teen akaawaneek x̱á,",
+          "line_english": "He told his wife, you see,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 278,
+          "line_tlingit": "“X̱wasiteen ax̱ húnx̱w.",
+          "line_english": "“I saw my older brother.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 124,
+      "sentence_tlingit": "Yan x̱at yawsiḵáa.",
+      "sentence_english": "He instructed me.",
+      "lines": [
+        {
+          "line_number": 279,
+          "line_tlingit": "Yan x̱at yawsiḵáa.",
+          "line_english": "He instructed me.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 125,
+      "sentence_tlingit": "I gu.aa yáx̱ xʼwán,” yóo adaayaḵá du shát.",
+      "sentence_english": "Be brave,” he said to his wife",
+      "lines": [
+        {
+          "line_number": 280,
+          "line_tlingit": "I gu.aa yáx̱ xʼwán,”",
+          "line_english": "Be brave,”",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 281,
+          "line_tlingit": "yóo adaayaḵá du shát.",
+          "line_english": "he said to his wife",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 126,
+      "sentence_tlingit": "“Haadé kg̱wagóot.",
+      "sentence_english": "“He will come.",
+      "lines": [
+        {
+          "line_number": 282,
+          "line_tlingit": "“Haadé kg̱wagóot.",
+          "line_english": "“He will come.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 127,
+      "sentence_tlingit": "Aadé ḵukg̱waháa.” Kooḵénaa áwé sdu jeewú aa.",
+      "sentence_english": "The time will come.” They had a messenger.",
+      "lines": [
+        {
+          "line_number": 283,
+          "line_tlingit": "Aadé ḵukg̱waháa.”",
+          "line_english": "The time will come.”",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 284,
+          "line_tlingit": "Kooḵénaa áwé sdu jeewú aa.",
+          "line_english": "They had a messenger.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 128,
+      "sentence_tlingit": "Chʼáagudáx̱ áwé wéitʼát ḵudzitee.",
+      "sentence_english": "They have been around for a long time.",
+      "lines": [
+        {
+          "line_number": 285,
+          "line_tlingit": "Chʼáagudáx̱ áwé wéitʼát ḵudzitee.",
+          "line_english": "They have been around for a long time.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 129,
+      "sentence_tlingit": "Yisikóo wéitʼát kooḵénaa.",
+      "sentence_english": "You know what a messenger is.",
+      "lines": [
+        {
+          "line_number": 286,
+          "line_tlingit": "Yisikóo wéitʼát kooḵénaa.",
+          "line_english": "You know what a messenger is.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 130,
+      "sentence_tlingit": "Atnatí áwé, de át yaawagásʼ tsaa tsaadáx̱ jidanook áwé ash tuwáa sigóo.",
+      "sentence_english": "Kaatsʼ was yearning to go hunting for seals, he wanted to get his hands on seals.",
+      "lines": [
+        {
+          "line_number": 287,
+          "line_tlingit": "Atnatí áwé,",
+          "line_english": "Kaatsʼ was yearning",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 288,
+          "line_tlingit": "de át yaawagásʼ",
+          "line_english": "to go hunting",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 289,
+          "line_tlingit": "tsaa",
+          "line_english": "for seals,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 290,
+          "line_tlingit": "tsaadáx̱ jidanook áwé ash tuwáa sigóo.",
+          "line_english": "he wanted to get his hands on seals.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 131,
+      "sentence_tlingit": "Yóo áwé yan ayawsiḵáa du kéekʼ.",
+      "sentence_english": "This is what he instructed his younger brother.",
+      "lines": [
+        {
+          "line_number": 291,
+          "line_tlingit": "Yóo áwé yan ayawsiḵáa du kéekʼ.",
+          "line_english": "This is what he instructed his younger brother.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 132,
+      "sentence_tlingit": "Wé yaakw tsú du yaagú “Gax̱tooḵóox̱. Héidu á.” Áa ash shukaawajáa anax̱ yeiḵ gug̱agut yé; chʼu yeedát áwu á.",
+      "sentence_english": "The boat too, his boat. “We will go by boat. There it is.” Kaatsʼ showed him to where he was coming down; it’s still there today.",
+      "lines": [
+        {
+          "line_number": 292,
+          "line_tlingit": "Wé yaakw tsú",
+          "line_english": "The boat too,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 293,
+          "line_tlingit": "du yaagú",
+          "line_english": "his boat.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 294,
+          "line_tlingit": "“Gax̱tooḵóox̱.",
+          "line_english": "“We will go by boat.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 295,
+          "line_tlingit": "Héidu á.”",
+          "line_english": "There it is.”",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 296,
+          "line_tlingit": "Áa ash shukaawajáa anax̱ yeiḵ gug̱agut yé; chʼu yeedát áwu á.",
+          "line_english": "Kaatsʼ showed him to where he was coming down; it’s still there today.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 133,
+      "sentence_tlingit": "Yóo yú ixkée ḵu.oo yú Teiḵweidí, g̱án, haa een has akanéek.",
+      "sentence_english": "The Teiḵweidí people down south, see, they told us about it.",
+      "lines": [
+        {
+          "line_number": 297,
+          "line_tlingit": "Yóo yú ixkée ḵu.oo yú Teiḵweidí,",
+          "line_english": "The Teiḵweidí people down south,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 298,
+          "line_tlingit": "g̱án, haa een has akanéek.",
+          "line_english": "see, they told us about it.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 134,
+      "sentence_tlingit": "“Yóodu áxʼ wé yatseeneitch ḵuwsineix̱i yé; wéidu á; yáadu á,” yóodu Ketchikan.",
+      "sentence_english": "“There’s where the brown bear saved a person; there it is; here it is,” Ketchikan is there.",
+      "lines": [
+        {
+          "line_number": 299,
+          "line_tlingit": "“Yóodu áxʼ wé yatseeneitch ḵuwsineix̱i yé; wéidu á; yáadu á,”",
+          "line_english": "“There’s where the brown bear saved a person; there it is; here it is,”",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 300,
+          "line_tlingit": "yóodu Ketchikan.",
+          "line_english": "Ketchikan is there.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 135,
+      "sentence_tlingit": "Yáadu aa tsú Yes Bay yóo duwasáakw.",
+      "sentence_english": "Also this place called Yes Bay.",
+      "lines": [
+        {
+          "line_number": 301,
+          "line_tlingit": "Yáadu aa tsú",
+          "line_english": "Also this place",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 302,
+          "line_tlingit": "Yes Bay yóo duwasáakw.",
+          "line_english": "called Yes Bay.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 136,
+      "sentence_tlingit": "Yees G̱eey yóo duwasáakw; aatlein héen áwé yú a kát kaawadáa yáadu á á.",
+      "sentence_english": "It’s called Yees G̱eey; there’s a large river, the tributary that joins it this way is here.",
+      "lines": [
+        {
+          "line_number": 303,
+          "line_tlingit": "Yees G̱eey yóo duwasáakw; aatlein héen áwé",
+          "line_english": "It’s called Yees G̱eey; there’s a large river,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 304,
+          "line_tlingit": "yú a kát kaawadáa",
+          "line_english": "the tributary that joins it this way",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 305,
+          "line_tlingit": "yáadu á á.",
+          "line_english": "is here.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 137,
+      "sentence_tlingit": "X̱ʼaxʼáan hásch áwé haa een has akanéek.",
+      "sentence_english": "X̱ʼaxʼáan and his group were the ones who told us.",
+      "lines": [
+        {
+          "line_number": 306,
+          "line_tlingit": "X̱ʼaxʼáan hásch áwé haa een has akanéek.",
+          "line_english": "X̱ʼaxʼáan and his group were the ones who told us.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 138,
+      "sentence_tlingit": "Teiḵweidí x̱áawé hás áwé yéi s woonei.",
+      "sentence_english": "They are the Teiḵweidí whom this happened to.",
+      "lines": [
+        {
+          "line_number": 307,
+          "line_tlingit": "Teiḵweidí x̱áawé hás áwé yéi s woonei.",
+          "line_english": "They are the Teiḵweidí whom this happened to.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 139,
+      "sentence_tlingit": "Wé shukaade ḵáa áxʼ átx̱ wusiteeyi yé áwé.",
+      "sentence_english": "That’s where their ancestor became a thing of value.",
+      "lines": [
+        {
+          "line_number": 308,
+          "line_tlingit": "Wé shukaade ḵáa áxʼ átx̱ wusiteeyi yé áwé.",
+          "line_english": "That’s where their ancestor became a thing of value.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 140,
+      "sentence_tlingit": "Áa atoosg̱eiwú.",
+      "sentence_english": "We seined there.",
+      "lines": [
+        {
+          "line_number": 309,
+          "line_tlingit": "Áa atoosg̱eiwú.",
+          "line_english": "We seined there.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 141,
+      "sentence_tlingit": "Haaw áwé at natí at natí áwé áx̱ ḵux̱ yé hasdu káa yán ḵoowatée du yátxʼi.",
+      "sentence_english": "Now, this is where they hunted, they hunted, where they paddled, his children were one winter old.",
+      "lines": [
+        {
+          "line_number": 310,
+          "line_tlingit": "Haaw",
+          "line_english": "Now,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 311,
+          "line_tlingit": "áwé at natí",
+          "line_english": "this is where they hunted,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 312,
+          "line_tlingit": "at natí",
+          "line_english": "they hunted,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 313,
+          "line_tlingit": "áwé áx̱ ḵux̱ yé",
+          "line_english": "where they paddled,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 314,
+          "line_tlingit": "hasdu káa yán ḵoowatée du yátxʼi.",
+          "line_english": "his children were one winter old.",
+          "page_tlingit": "232",
+          "page_english": "233"
+        }
+      ]
+    },
+    {
+      "sentence_number": 142,
+      "sentence_tlingit": "Násʼgináx̱ áwé yatee wé ḵáaxʼw xóots.",
+      "sentence_english": "There were three of them, male brown bears.",
+      "lines": [
+        {
+          "line_number": 315,
+          "line_tlingit": "Násʼgináx̱ áwé yatee",
+          "line_english": "There were three of them,",
+          "page_tlingit": "232",
+          "page_english": "233"
+        },
+        {
+          "line_number": 316,
+          "line_tlingit": "wé ḵáaxʼw",
+          "line_english": "male",
+          "page_tlingit": "232",
+          "page_english": "235"
+        },
+        {
+          "line_number": 317,
+          "line_tlingit": "xóots.",
+          "line_english": "brown bears.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 143,
+      "sentence_tlingit": "Hás áyá sʼuḵkasdúkx̱ has sitee yá yeedát hás áwé.",
+      "sentence_english": "They are the ones that are called solid rib cage today, that’s them.",
+      "lines": [
+        {
+          "line_number": 318,
+          "line_tlingit": "Hás áyá sʼuḵkasdúkx̱ has sitee yá yeedát",
+          "line_english": "They are the ones that are called solid rib cage today,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 319,
+          "line_tlingit": "hás áwé.",
+          "line_english": "that’s them.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 144,
+      "sentence_tlingit": "Du yátxʼi áwé lingít áwé hú du tuwáatx̱. Yú aantḵeení s waḵshiyeexʼ ḵu.aa.",
+      "sentence_english": "They are his children, they are human because of him. But to people’s eyes, though, they are bears.",
+      "lines": [
+        {
+          "line_number": 320,
+          "line_tlingit": "Du yátxʼi áwé",
+          "line_english": "They are his children,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 321,
+          "line_tlingit": "lingít áwé",
+          "line_english": "they are human",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 322,
+          "line_tlingit": "hú du tuwáatx̱.",
+          "line_english": "because of him.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 323,
+          "line_tlingit": "Yú aantḵeení s waḵshiyeexʼ ḵu.aa.",
+          "line_english": "But to people’s eyes, though, they are bears.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 145,
+      "sentence_tlingit": "Áwé át ugootch.",
+      "sentence_english": "He would go there.",
+      "lines": [
+        {
+          "line_number": 324,
+          "line_tlingit": "Áwé át ugootch.",
+          "line_english": "He would go there.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 146,
+      "sentence_tlingit": "At natí du kéekʼ (whispered line, inaudible) Ash shukaawajáa wé du shát wé xóots “Yóodu á áa yéi haa kg̱watee yé áwé.” Wé x̱áat wé x̱áat héeni áxʼ áwé wdudziteen du x̱ʼus.eetí áwé.",
+      "sentence_english": "His younger brother hunted. Kaatsʼ instructed his brown bear wife, “There it is, the place where we will live.” The salmon, the salmon river, is where her footprints were seen.",
+      "lines": [
+        {
+          "line_number": 325,
+          "line_tlingit": "At natí",
+          "line_english": "His younger brother",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 326,
+          "line_tlingit": "du kéekʼ (whispered line, inaudible)",
+          "line_english": "hunted.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 327,
+          "line_tlingit": "Ash shukaawajáa wé du shát",
+          "line_english": "Kaatsʼ instructed",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 328,
+          "line_tlingit": "wé xóots",
+          "line_english": "his brown bear wife,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 329,
+          "line_tlingit": "“Yóodu á",
+          "line_english": "“There it is,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 330,
+          "line_tlingit": "áa yéi haa kg̱watee yé áwé.”",
+          "line_english": "the place where we will live.”",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 331,
+          "line_tlingit": "Wé x̱áat",
+          "line_english": "The salmon,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 332,
+          "line_tlingit": "wé x̱áat héeni",
+          "line_english": "the salmon river,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 333,
+          "line_tlingit": "áxʼ áwé wdudziteen du x̱ʼus.eetí áwé.",
+          "line_english": "is where her footprints were seen.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 147,
+      "sentence_tlingit": "Kéi wlishóo wé xóots x̱ʼus.eetí áwé yáax̱ kei wlishóo du x̱ʼus.eetí.",
+      "sentence_english": "The brown bear footprints lead upward, her footprints lead along here.",
+      "lines": [
+        {
+          "line_number": 334,
+          "line_tlingit": "Kéi wlishóo wé xóots x̱ʼus.eetí áwé",
+          "line_english": "The brown bear footprints lead upward,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 335,
+          "line_tlingit": "yáax̱ kei wlishóo du x̱ʼus.eetí.",
+          "line_english": "her footprints lead along here.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 148,
+      "sentence_tlingit": "Chʼa ḵúnáx̱ yú tléixʼ.aach áwé tsá wsiteen kʼidéin aan yaa na.át.",
+      "sentence_english": "Only one person saw them clearly, he was walking with her.",
+      "lines": [
+        {
+          "line_number": 336,
+          "line_tlingit": "Chʼa ḵúnáx̱ yú tléixʼ.aach áwé tsá wsiteen",
+          "line_english": "Only one person saw them",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 337,
+          "line_tlingit": "kʼidéin",
+          "line_english": "clearly,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 338,
+          "line_tlingit": "aan yaa na.át.",
+          "line_english": "he was walking with her.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 149,
+      "sentence_tlingit": "Á anax áwé wdudzikóo ách áwé du eeg̱áa at wootee x̱á.",
+      "sentence_english": "That was how they knew. That’s why it seemed proper, you see.",
+      "lines": [
+        {
+          "line_number": 339,
+          "line_tlingit": "Á anax áwé wdudzikóo",
+          "line_english": "That was how they knew.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 340,
+          "line_tlingit": "ách áwé du eeg̱áa at wootee x̱á.",
+          "line_english": "That’s why it seemed proper, you see.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 150,
+      "sentence_tlingit": "Yá shaawát áwé mistake yéi awsinei yá du shát yéeyi.",
+      "sentence_english": "It was the woman who made a mistake, his former wife.",
+      "lines": [
+        {
+          "line_number": 341,
+          "line_tlingit": "Yá shaawát áwé mistake yéi awsinei",
+          "line_english": "It was the woman who made a mistake,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 342,
+          "line_tlingit": "yá du shát yéeyi.",
+          "line_english": "his former wife.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 151,
+      "sentence_tlingit": "Tlél yéi ng̱waneiyín ágwá.",
+      "sentence_english": "This wouldn’t have happened to him, don’t you agree?",
+      "lines": [
+        {
+          "line_number": 343,
+          "line_tlingit": "Tlél yéi ng̱waneiyín ágwá.",
+          "line_english": "This wouldn’t have happened to him, don’t you agree?",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 152,
+      "sentence_tlingit": "Áyá yá shaawát aadé yaawaḵaayi yé ḵúnáx̱ wé du shát yéeyi wé éeḵ aa.",
+      "sentence_english": "It was because of what the woman said, his former wife on the coast.",
+      "lines": [
+        {
+          "line_number": 344,
+          "line_tlingit": "Áyá yá shaawát aadé yaawaḵaayi yé ḵúnáx̱ wé du shát yéeyi",
+          "line_english": "It was because of what the woman said, his former wife",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 345,
+          "line_tlingit": "wé éeḵ aa.",
+          "line_english": "on the coast.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 153,
+      "sentence_tlingit": "Ash een yakʼéi wé xóots wé aawashayi aa.",
+      "sentence_english": "The brown bear, the one who was his wife, was good to him.",
+      "lines": [
+        {
+          "line_number": 346,
+          "line_tlingit": "Ash een yakʼéi",
+          "line_english": "The brown bear,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 347,
+          "line_tlingit": "wé xóots",
+          "line_english": "the one who was his wife,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 348,
+          "line_tlingit": "wé aawashayi aa.",
+          "line_english": "was good to him.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 154,
+      "sentence_tlingit": "Ash een tuli.aan du yátxʼi du jeewú de x̱á ash een tuli.aan.",
+      "sentence_english": "She was kind to him, she already had his children, you see, she was kind to him.",
+      "lines": [
+        {
+          "line_number": 349,
+          "line_tlingit": "Ash een tuli.aan",
+          "line_english": "She was kind to him,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 350,
+          "line_tlingit": "du yátxʼi du jeewú de x̱á",
+          "line_english": "she already had his children, you see,",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 351,
+          "line_tlingit": "ash een tuli.aan.",
+          "line_english": "she was kind to him.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 155,
+      "sentence_tlingit": "“Tlél du éex̱ x̱ʼeetaaníḵ xʼwán wé i shát,” yóo ash daayaḵá.",
+      "sentence_english": "“Please don’t speak to your wife,” she said to him.",
+      "lines": [
+        {
+          "line_number": 352,
+          "line_tlingit": "“Tlél du éex̱ x̱ʼeetaaníḵ xʼwán wé i shát,”",
+          "line_english": "“Please don’t speak to your wife,”",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 353,
+          "line_tlingit": "yóo ash daayaḵá.",
+          "line_english": "she said to him.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 156,
+      "sentence_tlingit": "“Aaá” yóo yaawaḵaa.",
+      "sentence_english": "“Yes,” he said.",
+      "lines": [
+        {
+          "line_number": 354,
+          "line_tlingit": "“Aaá”",
+          "line_english": "“Yes,”",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 355,
+          "line_tlingit": "yóo yaawaḵaa.",
+          "line_english": "he said.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 157,
+      "sentence_tlingit": "Tlél áx̱ x̱ʼeitaan.",
+      "sentence_english": "He wouldn’t speak to her.",
+      "lines": [
+        {
+          "line_number": 356,
+          "line_tlingit": "Tlél áx̱ x̱ʼeitaan.",
+          "line_english": "He wouldn’t speak to her.",
+          "page_tlingit": "234",
+          "page_english": "235"
+        }
+      ]
+    },
+    {
+      "sentence_number": 158,
+      "sentence_tlingit": "Wéitʼaa wé tsaa, héʼ haat awoosḵoox̱ch. (Slap!) Toowú sagú!",
+      "sentence_english": "Those seals, lots! he would bring in by boat. (Slap) The brown bears",
+      "lines": [
+        {
+          "line_number": 357,
+          "line_tlingit": "Wéitʼaa",
+          "line_english": "Those",
+          "page_tlingit": "234",
+          "page_english": "235"
+        },
+        {
+          "line_number": 358,
+          "line_tlingit": "wé tsaa, héʼ",
+          "line_english": "seals, lots!",
+          "page_tlingit": "236",
+          "page_english": "235"
+        },
+        {
+          "line_number": 359,
+          "line_tlingit": "haat awoosḵoox̱ch. (Slap!)",
+          "line_english": "he would bring in by boat. (Slap)",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 360,
+          "line_tlingit": "Toowú sagú!",
+          "line_english": "The brown bears",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 159,
+      "sentence_tlingit": "yá xóots.",
+      "sentence_english": "were happy!",
+      "lines": [
+        {
+          "line_number": 361,
+          "line_tlingit": "yá xóots.",
+          "line_english": "were happy!",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 160,
+      "sentence_tlingit": "Hasdu éesh.",
+      "sentence_english": "Their father.",
+      "lines": [
+        {
+          "line_number": 362,
+          "line_tlingit": "Hasdu éesh.",
+          "line_english": "Their father.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 161,
+      "sentence_tlingit": "Sagú áwé wé tsaa asag̱ahéinín dáaḵde a x̱ʼeis.",
+      "sentence_english": "There was joy when he wanted to bring the seals to the beach for them to eat.",
+      "lines": [
+        {
+          "line_number": 363,
+          "line_tlingit": "Sagú áwé",
+          "line_english": "There was joy",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 364,
+          "line_tlingit": "wé tsaa",
+          "line_english": "when he wanted to bring the seals",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 365,
+          "line_tlingit": "asag̱ahéinín dáaḵde",
+          "line_english": "to the beach",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 366,
+          "line_tlingit": "a x̱ʼeis.",
+          "line_english": "for them to eat.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 162,
+      "sentence_tlingit": "Yáatʼaa áwé sdu x̱ʼeis.",
+      "sentence_english": "These were for them to eat.",
+      "lines": [
+        {
+          "line_number": 367,
+          "line_tlingit": "Yáatʼaa áwé sdu x̱ʼeis.",
+          "line_english": "These were for them to eat.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 163,
+      "sentence_tlingit": "Tlél áwé du tuwáa ushgú a wanáak chʼa a wanáak áwé áa yéi yatee.",
+      "sentence_english": "He didn’t want to part from them to live apart from them.",
+      "lines": [
+        {
+          "line_number": 368,
+          "line_tlingit": "Tlél áwé du tuwáa ushgú",
+          "line_english": "He didn’t want to",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 369,
+          "line_tlingit": "a wanáak",
+          "line_english": "part from them",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 370,
+          "line_tlingit": "chʼa a wanáak",
+          "line_english": "to live",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 371,
+          "line_tlingit": "áwé áa yéi yatee.",
+          "line_english": "apart from them.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 164,
+      "sentence_tlingit": "Áwé héen áwé héen áwé héeng̱aa áwé woogoot Kaatsʼ ḵu.aa.",
+      "sentence_english": "There was a stream, a stream where Kaatsʼ went for water.",
+      "lines": [
+        {
+          "line_number": 372,
+          "line_tlingit": "Áwé héen áwé",
+          "line_english": "There was a stream,",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 373,
+          "line_tlingit": "héen áwé héeng̱aa áwé woogoot Kaatsʼ ḵu.aa.",
+          "line_english": "a stream where Kaatsʼ went for water.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 165,
+      "sentence_tlingit": "Tlél jéalousx̱ ustí wé xóots du yís ash een tuli.aan.",
+      "sentence_english": "The brown bear wasn’t jealous over him, she was kind to him.",
+      "lines": [
+        {
+          "line_number": 374,
+          "line_tlingit": "Tlél jéalousx̱ ustí wé xóots du yís",
+          "line_english": "The brown bear wasn’t jealous over him,",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 375,
+          "line_tlingit": "ash een tuli.aan.",
+          "line_english": "she was kind to him.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 166,
+      "sentence_tlingit": "Chʼa l yéi óosh gé wuteeyín aadé óosh gé ng̱wateeyi yé dé.",
+      "sentence_english": "If only things hadn’t happened this way, how would it have been?",
+      "lines": [
+        {
+          "line_number": 376,
+          "line_tlingit": "Chʼa l yéi óosh gé wuteeyín aadé óosh gé ng̱wateeyi yé dé.",
+          "line_english": "If only things hadn’t happened this way, how would it have been?",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 167,
+      "sentence_tlingit": "Chʼu tle átx̱ áwé nax̱wsateeyi át áwé yú.á yóo áwé dutláakw x̱á.",
+      "sentence_english": "It would have really been something, they say. That’s how it’s told, you see.",
+      "lines": [
+        {
+          "line_number": 377,
+          "line_tlingit": "Chʼu tle átx̱ áwé nax̱wsateeyi át áwé yú.á yóo áwé dutláakw x̱á.",
+          "line_english": "It would have really been something, they say. That’s how it’s told, you see.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 168,
+      "sentence_tlingit": "Ách áwé ḵaa x̱ʼaya.áx̱ch wéitʼát xóots.",
+      "sentence_english": "This is why the brown bears understand humans.",
+      "lines": [
+        {
+          "line_number": 378,
+          "line_tlingit": "Ách áwé ḵaa x̱ʼaya.áx̱ch wéitʼát xóots.",
+          "line_english": "This is why the brown bears understand humans.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 169,
+      "sentence_tlingit": "Lingít lingít ḵusteeyí.",
+      "sentence_english": "Humans, the human way of life.",
+      "lines": [
+        {
+          "line_number": 379,
+          "line_tlingit": "Lingít",
+          "line_english": "Humans,",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 380,
+          "line_tlingit": "lingít ḵusteeyí.",
+          "line_english": "the human way of life.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 170,
+      "sentence_tlingit": "Yóo yagútk.",
+      "sentence_english": "Kaatsʼ would go out.",
+      "lines": [
+        {
+          "line_number": 381,
+          "line_tlingit": "Yóo yagútk.",
+          "line_english": "Kaatsʼ would go out.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 171,
+      "sentence_tlingit": "De tsu s woo.aat at natí du kéekʼ hás.",
+      "sentence_english": "His younger brothers had gone out again to hunt.",
+      "lines": [
+        {
+          "line_number": 382,
+          "line_tlingit": "De tsu s woo.aat",
+          "line_english": "His younger brothers",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 383,
+          "line_tlingit": "at natí",
+          "line_english": "had gone out again",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 384,
+          "line_tlingit": "du kéekʼ hás.",
+          "line_english": "to hunt.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 172,
+      "sentence_tlingit": "Héʼ daa sá g̱aduwax̱aayi át.",
+      "sentence_english": "Lots! whatever was for food.",
+      "lines": [
+        {
+          "line_number": 385,
+          "line_tlingit": "Héʼ",
+          "line_english": "Lots!",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 386,
+          "line_tlingit": "daa sá",
+          "line_english": "whatever",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 387,
+          "line_tlingit": "g̱aduwax̱aayi át.",
+          "line_english": "was for food.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 173,
+      "sentence_tlingit": "Áwé héen, wé héeng̱aa áwé héen x̱ʼé áwé át uwagút; hú ḵu.aa, Kaatsʼ ḵu.aa ash yayeet ásíwé gé wé hán gíwé wé du shát.",
+      "sentence_english": "It was water, it was for water that he, Kaatsʼ, came to the mouth of the stream, but his human wife was standing there waiting for him, wasn’t she?",
+      "lines": [
+        {
+          "line_number": 388,
+          "line_tlingit": "Áwé héen,",
+          "line_english": "It was water,",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 389,
+          "line_tlingit": "wé héeng̱aa áwé",
+          "line_english": "it was for water",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 390,
+          "line_tlingit": "héen x̱ʼé áwé át uwagút; hú ḵu.aa, Kaatsʼ ḵu.aa",
+          "line_english": "that he, Kaatsʼ, came to the mouth of the stream,",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 391,
+          "line_tlingit": "ash yayeet ásíwé gé wé hán gíwé",
+          "line_english": "but his human wife",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 392,
+          "line_tlingit": "wé du shát.",
+          "line_english": "was standing there waiting for him, wasn’t she?",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 174,
+      "sentence_tlingit": "Wé anáḵ ux̱ kéi uwatiyi x̱á.",
+      "sentence_english": "The one from before he got lost, you see.",
+      "lines": [
+        {
+          "line_number": 393,
+          "line_tlingit": "Wé anáḵ ux̱ kéi uwatiyi x̱á.",
+          "line_english": "The one from before he got lost, you see.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        }
+      ]
+    },
+    {
+      "sentence_number": 175,
+      "sentence_tlingit": "Dáx̱náx̱ áwé yatee du shát, dáx̱náx̱. Yá yanwáat áwé wé mistake yéi awsinei.",
+      "sentence_english": "He had two wives, two. It was the older one who made the mistake.",
+      "lines": [
+        {
+          "line_number": 394,
+          "line_tlingit": "Dáx̱náx̱ áwé yatee du shát,",
+          "line_english": "He had two wives,",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 395,
+          "line_tlingit": "dáx̱náx̱.",
+          "line_english": "two.",
+          "page_tlingit": "236",
+          "page_english": "237"
+        },
+        {
+          "line_number": 396,
+          "line_tlingit": "Yá yanwáat áwé",
+          "line_english": "It was the older one",
+          "page_tlingit": "238",
+          "page_english": "237"
+        },
+        {
+          "line_number": 397,
+          "line_tlingit": "wé mistake yéi awsinei.",
+          "line_english": "who made the mistake.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 176,
+      "sentence_tlingit": "Chʼá aadé yei kg̱ee.oo ax̱ sée yé á.",
+      "sentence_english": "Please excuse this, my daughter.",
+      "lines": [
+        {
+          "line_number": 398,
+          "line_tlingit": "Chʼá aadé yei kg̱ee.oo",
+          "line_english": "Please excuse",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 399,
+          "line_tlingit": "ax̱ sée",
+          "line_english": "this,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 400,
+          "line_tlingit": "yé á.",
+          "line_english": "my daughter.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 177,
+      "sentence_tlingit": "Tle true story áwé.",
+      "sentence_english": "This is a true story.",
+      "lines": [
+        {
+          "line_number": 401,
+          "line_tlingit": "Tle true story áwé.",
+          "line_english": "This is a true story.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 178,
+      "sentence_tlingit": "Wáa sá yakʼéi eewóosʼi.",
+      "sentence_english": "How good it is that you’re asking about it.",
+      "lines": [
+        {
+          "line_number": 402,
+          "line_tlingit": "Wáa sá yakʼéi eewóosʼi.",
+          "line_english": "How good it is that you’re asking about it.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 179,
+      "sentence_tlingit": "A tóonáx̱ ḵiydzitee Teiḵweidí xwasikóo kʼidéin i éesh, i léelkʼw tsú yé.",
+      "sentence_english": "Your birth is from Teiḵweidí, I knew it well, your father, your grandmother too.",
+      "lines": [
+        {
+          "line_number": 403,
+          "line_tlingit": "A tóonáx̱ ḵiydzitee Teiḵweidí",
+          "line_english": "Your birth is from Teiḵweidí,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 404,
+          "line_tlingit": "xwasikóo kʼidéin",
+          "line_english": "I knew it well,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 405,
+          "line_tlingit": "i éesh,",
+          "line_english": "your father,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 406,
+          "line_tlingit": "i léelkʼw tsú yé.",
+          "line_english": "your grandmother too.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 180,
+      "sentence_tlingit": "Yóot uwagút héen áyá yaa anas.ín.",
+      "sentence_english": "He left, carrying water.",
+      "lines": [
+        {
+          "line_number": 407,
+          "line_tlingit": "Yóot uwagút",
+          "line_english": "He left,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 408,
+          "line_tlingit": "héen áyá yaa anas.ín.",
+          "line_english": "carrying water.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 181,
+      "sentence_tlingit": "Chʼu shóogu du ḵusteeyí.",
+      "sentence_english": "His life was the same as before.",
+      "lines": [
+        {
+          "line_number": 409,
+          "line_tlingit": "Chʼu shóogu du ḵusteeyí.",
+          "line_english": "His life was the same as before.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 182,
+      "sentence_tlingit": "Áx̱ goot ḵu.aa áx̱ goot ḵu.aa wé yatseeneit du shát.",
+      "sentence_english": "But she’d come to him, but she’d come to him, that brown bear, his wife.",
+      "lines": [
+        {
+          "line_number": 410,
+          "line_tlingit": "Áx̱ goot ḵu.aa",
+          "line_english": "But she’d come to him,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 411,
+          "line_tlingit": "áx̱ goot ḵu.aa",
+          "line_english": "but she’d come to him,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 412,
+          "line_tlingit": "wé yatseeneit",
+          "line_english": "that brown bear,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 413,
+          "line_tlingit": "du shát.",
+          "line_english": "his wife.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 183,
+      "sentence_tlingit": "Aadé óosh gé ng̱wateeyi yé gé chʼu mistake l yoo oosneigi kát wé shaawát x̱á.",
+      "sentence_english": "How would it have been if the woman hadn’t made the mistake, you see.",
+      "lines": [
+        {
+          "line_number": 414,
+          "line_tlingit": "Aadé óosh gé ng̱wateeyi yé gé",
+          "line_english": "How would it have been",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 415,
+          "line_tlingit": "chʼu mistake l yoo oosneigi kát wé shaawát x̱á.",
+          "line_english": "if the woman hadn’t made the mistake, you see.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 184,
+      "sentence_tlingit": "Héen yaa anas.ín.",
+      "sentence_english": "He was carrying water.",
+      "lines": [
+        {
+          "line_number": 416,
+          "line_tlingit": "Héen yaa anas.ín.",
+          "line_english": "He was carrying water.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 185,
+      "sentence_tlingit": "“Héidu jáʼ!” yóo ash yawsiḵaa “De koodzí kwshé yóo gé yakʼwudzix̱aawu át awsiteen gé.” (Chʼa aadé yéi x̱at x̱ʼakg̱ee.oo.) Yóo áwé ash yawsiḵaa “Daadzix̱áawu át awsiteen,” yóo áwé ash daayaḵá x̱á.",
+      "sentence_english": "“Hey there, my dear,” she said to him, “Isn’t it magnificent to see a tiny face with hair on it?” (Please excuse my language.) This is what she said to him, “To see a thing with hair on it,” is what she said to him, you see.",
+      "lines": [
+        {
+          "line_number": 417,
+          "line_tlingit": "“Héidu jáʼ!”",
+          "line_english": "“Hey there, my dear,”",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 418,
+          "line_tlingit": "yóo ash yawsiḵaa",
+          "line_english": "she said to him,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 419,
+          "line_tlingit": "“De koodzí kwshé yóo gé yakʼwudzix̱aawu át awsiteen gé.”",
+          "line_english": "“Isn’t it magnificent to see a tiny face with hair on it?”",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 420,
+          "line_tlingit": "(Chʼa aadé yéi x̱at x̱ʼakg̱ee.oo.)",
+          "line_english": "(Please excuse my language.)",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 421,
+          "line_tlingit": "Yóo áwé ash yawsiḵaa",
+          "line_english": "This is what she said to him,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 422,
+          "line_tlingit": "“Daadzix̱áawu át awsiteen,”",
+          "line_english": "“To see a thing with hair on it,”",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 423,
+          "line_tlingit": "yóo áwé ash daayaḵá x̱á.",
+          "line_english": "is what she said to him, you see.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 186,
+      "sentence_tlingit": "Tlél áx̱ x̱ʼeitaan.",
+      "sentence_english": "He wouldn’t speak to her.",
+      "lines": [
+        {
+          "line_number": 424,
+          "line_tlingit": "Tlél áx̱ x̱ʼeitaan.",
+          "line_english": "He wouldn’t speak to her.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 187,
+      "sentence_tlingit": "Áyá yá aadé ash yawsiḵaayi yéich áwé át x̱ʼeiwatán.",
+      "sentence_english": "It was because she said this to him that he spoke to her.",
+      "lines": [
+        {
+          "line_number": 425,
+          "line_tlingit": "Áyá yá aadé ash yawsiḵaayi yéich áwé át x̱ʼeiwatán.",
+          "line_english": "It was because she said this to him that he spoke to her.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 188,
+      "sentence_tlingit": "“Ha dú!",
+      "sentence_english": "“You!!",
+      "lines": [
+        {
+          "line_number": 426,
+          "line_tlingit": "“Ha dú!",
+          "line_english": "“You!!",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 189,
+      "sentence_tlingit": "Yeisú shí gé ix̱ʼakx̱waa.aaḵw héitʼaa,” yóo yaawaḵaa.",
+      "sentence_english": "If only I could have coached you on your words, you!” he said to her.",
+      "lines": [
+        {
+          "line_number": 427,
+          "line_tlingit": "Yeisú shí gé ix̱ʼakx̱waa.aaḵw héitʼaa,”",
+          "line_english": "If only I could have coached you on your words, you!”",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 428,
+          "line_tlingit": "yóo yaawaḵaa.",
+          "line_english": "he said to her.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 190,
+      "sentence_tlingit": "Ha.",
+      "sentence_english": "Now.",
+      "lines": [
+        {
+          "line_number": 429,
+          "line_tlingit": "Ha.",
+          "line_english": "Now.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 191,
+      "sentence_tlingit": "Hóochʼ áwé.",
+      "sentence_english": "That was it.",
+      "lines": [
+        {
+          "line_number": 430,
+          "line_tlingit": "Hóochʼ áwé.",
+          "line_english": "That was it.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 192,
+      "sentence_tlingit": "Tlél a x̱án tlél áx̱ ugoot.",
+      "sentence_english": "He wasn’t with her, he didn’t go there.",
+      "lines": [
+        {
+          "line_number": 431,
+          "line_tlingit": "Tlél a x̱án",
+          "line_english": "He wasn’t with her,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 432,
+          "line_tlingit": "tlél áx̱ ugoot.",
+          "line_english": "he didn’t go there.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 193,
+      "sentence_tlingit": "Yáatx̱ áwé tle du een át s ḵóox̱; tle at natí wé du kéekʼ hás teen at natí.",
+      "sentence_english": "From then on, he would go by boat with his younger brothers to hunt, to hunt.",
+      "lines": [
+        {
+          "line_number": 433,
+          "line_tlingit": "Yáatx̱ áwé tle du een át s ḵóox̱; tle at natí wé du kéekʼ hás teen",
+          "line_english": "From then on, he would go by boat with his younger brothers to hunt,",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 434,
+          "line_tlingit": "at natí.",
+          "line_english": "to hunt.",
+          "page_tlingit": "238",
+          "page_english": "239"
+        }
+      ]
+    },
+    {
+      "sentence_number": 194,
+      "sentence_tlingit": "Yú yanshukát du yátxʼi wé xóots ḵu.aa de s dligéixʼ.",
+      "sentence_english": "But on the beach his bear children were fully grown.",
+      "lines": [
+        {
+          "line_number": 435,
+          "line_tlingit": "Yú yanshukát du yátxʼi",
+          "line_english": "But on the beach",
+          "page_tlingit": "238",
+          "page_english": "239"
+        },
+        {
+          "line_number": 436,
+          "line_tlingit": "wé xóots ḵu.aa",
+          "line_english": "his bear children",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 437,
+          "line_tlingit": "de s dligéixʼ.",
+          "line_english": "were fully grown.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 195,
+      "sentence_tlingit": "“Yijáḵ yee éesh yijáḵ.” Tsaa, tle anax̱ yeiḵ has lugúḵch sagú wéitʼát.",
+      "sentence_english": "“Kill your father. Kill him.” Pleased with the seals, the children would come running down to the beach.",
+      "lines": [
+        {
+          "line_number": 438,
+          "line_tlingit": "“Yijáḵ yee éesh",
+          "line_english": "“Kill your father.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 439,
+          "line_tlingit": "yijáḵ.”",
+          "line_english": "Kill him.”",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 440,
+          "line_tlingit": "Tsaa,",
+          "line_english": "Pleased with the seals,",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 441,
+          "line_tlingit": "tle anax̱ yeiḵ has lugúḵch sagú wéitʼát.",
+          "line_english": "the children would come running down to the beach.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 196,
+      "sentence_tlingit": "Áwé yei uwagút áwé yú.á áwé yá shí ḵu.aa yaa ḵux̱lig̱át.",
+      "sentence_english": "It’s said he stepped out of the canoe, but I have forgotten the song.",
+      "lines": [
+        {
+          "line_number": 442,
+          "line_tlingit": "Áwé yei uwagút áwé yú.á",
+          "line_english": "It’s said he stepped out of the canoe,",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 443,
+          "line_tlingit": "áwé yá shí ḵu.aa yaa ḵux̱lig̱át.",
+          "line_english": "but I have forgotten the song.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 197,
+      "sentence_tlingit": "Yá haa daakeitxʼích ḵwá s ashée nuch.",
+      "sentence_english": "But our “outer containers” usually sang it.",
+      "lines": [
+        {
+          "line_number": 444,
+          "line_tlingit": "Yá haa daakeitxʼích ḵwá s ashée nuch.",
+          "line_english": "But our “outer containers” usually sang it.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 198,
+      "sentence_tlingit": "Déix̱ yeekaadé dushí aakʼé shí áyú xóots x̱ʼasheeyí.",
+      "sentence_english": "It was sung in two ways, it is a fine song, the Brown Bear Song.",
+      "lines": [
+        {
+          "line_number": 445,
+          "line_tlingit": "Déix̱ yeekaadé dushí",
+          "line_english": "It was sung in two ways,",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 446,
+          "line_tlingit": "aakʼé shí áyú",
+          "line_english": "it is a fine song,",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 447,
+          "line_tlingit": "xóots x̱ʼasheeyí.",
+          "line_english": "the Brown Bear Song.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 199,
+      "sentence_tlingit": "Has aawajáḵ wé sdu éesh.",
+      "sentence_english": "They killed that father of theirs.",
+      "lines": [
+        {
+          "line_number": 448,
+          "line_tlingit": "Has aawajáḵ wé sdu éesh.",
+          "line_english": "They killed that father of theirs.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 200,
+      "sentence_tlingit": "Aag̱áa áwé áwé altín yú ḵʼatx̱áan ḵa yú goox̱ kooḵénaa áwé ḵʼatx̱áan s altín.",
+      "sentence_english": "That’s when the coward watched and the slave— he was a messenger— and the coward watched.",
+      "lines": [
+        {
+          "line_number": 449,
+          "line_tlingit": "Aag̱áa áwé áwé altín yú ḵʼatx̱áan",
+          "line_english": "That’s when the coward watched",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 450,
+          "line_tlingit": "ḵa yú goox̱",
+          "line_english": "and the slave—",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 451,
+          "line_tlingit": "kooḵénaa áwé",
+          "line_english": "he was a messenger—",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 452,
+          "line_tlingit": "ḵʼatx̱áan",
+          "line_english": "and the coward",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 453,
+          "line_tlingit": "s altín.",
+          "line_english": "watched.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 201,
+      "sentence_tlingit": "Yéi áwé kdulneek du x̱ʼéidáx̱. Du guk.ádi du gúgu yú.á wé shaawát du wootsaag̱áyi; yées ḵáa áwé at doogú xʼóow áwé awdlisík.",
+      "sentence_english": "That’s how it’s told from his words. It’s said there were earrings on the ears of the woman, she had a cane; she was a young person, she wore an animal skin on her back tied around her waist.",
+      "lines": [
+        {
+          "line_number": 454,
+          "line_tlingit": "Yéi áwé kdulneek du x̱ʼéidáx̱.",
+          "line_english": "That’s how it’s told from his words.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 455,
+          "line_tlingit": "Du guk.ádi du gúgu yú.á",
+          "line_english": "It’s said there were earrings on the ears",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 456,
+          "line_tlingit": "wé shaawát",
+          "line_english": "of the woman,",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 457,
+          "line_tlingit": "du wootsaag̱áyi; yées ḵáa áwé",
+          "line_english": "she had a cane; she was a young person,",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 458,
+          "line_tlingit": "at doogú xʼóow áwé awdlisík.",
+          "line_english": "she wore an animal skin on her back tied around her waist.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 202,
+      "sentence_tlingit": "Yakawjixít, ách áwé a yáx̱ has yakashxeet Teiḵweidí.",
+      "sentence_english": "She had painted her face, this is why the Teiḵweidí paint their faces like her.",
+      "lines": [
+        {
+          "line_number": 459,
+          "line_tlingit": "Yakawjixít,",
+          "line_english": "She had painted her face,",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 460,
+          "line_tlingit": "ách áwé a yáx̱ has yakashxeet Teiḵweidí.",
+          "line_english": "this is why the Teiḵweidí paint their faces like her.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 203,
+      "sentence_tlingit": "Wé at yakooxéedayi áwé.",
+      "sentence_english": "It’s the animal’s face paint.",
+      "lines": [
+        {
+          "line_number": 461,
+          "line_tlingit": "Wé at yakooxéedayi áwé.",
+          "line_english": "It’s the animal’s face paint.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 204,
+      "sentence_tlingit": "Lingít áwé yú.á.",
+      "sentence_english": "She was human, they say.",
+      "lines": [
+        {
+          "line_number": 462,
+          "line_tlingit": "Lingít áwé yú.á.",
+          "line_english": "She was human, they say.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 205,
+      "sentence_tlingit": "Hóochʼ!",
+      "sentence_english": "No more!",
+      "lines": [
+        {
+          "line_number": 463,
+          "line_tlingit": "Hóochʼ!",
+          "line_english": "No more!",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 206,
+      "sentence_tlingit": "tle ag̱óotx̱ sitee tle wé du x̱úx̱. Has aawajáḵ hasdu éesh.",
+      "sentence_english": "that husband of hers was mutilated. They killed their father.",
+      "lines": [
+        {
+          "line_number": 464,
+          "line_tlingit": "tle ag̱óotx̱ sitee tle wé du x̱úx̱.",
+          "line_english": "that husband of hers was mutilated.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 465,
+          "line_tlingit": "Has aawajáḵ hasdu éesh.",
+          "line_english": "They killed their father.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 207,
+      "sentence_tlingit": "Dáaḵt has uwa.át hás ḵu.aa.",
+      "sentence_english": "They went back into the forest.",
+      "lines": [
+        {
+          "line_number": 466,
+          "line_tlingit": "Dáaḵt has uwa.át hás ḵu.aa.",
+          "line_english": "They went back into the forest.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 208,
+      "sentence_tlingit": "A x̱ánt hán du x̱úx̱ wé át lingít áwé sdu waḵshiyeexʼ.",
+      "sentence_english": "But the animal wife stood by her husband’s body, she was a human in their eyes.",
+      "lines": [
+        {
+          "line_number": 467,
+          "line_tlingit": "A x̱ánt hán du x̱úx̱",
+          "line_english": "But the animal wife",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 468,
+          "line_tlingit": "wé át",
+          "line_english": "stood by her husband’s body,",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 469,
+          "line_tlingit": "lingít áwé",
+          "line_english": "she was a human",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 470,
+          "line_tlingit": "sdu waḵshiyeexʼ.",
+          "line_english": "in their eyes.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 209,
+      "sentence_tlingit": "Ashí wé shí wé Teiḵweidích has ashée nuch.",
+      "sentence_english": "She sang the cry sung by the Teiḵweidí.",
+      "lines": [
+        {
+          "line_number": 471,
+          "line_tlingit": "Ashí wé shí",
+          "line_english": "She sang the cry",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 472,
+          "line_tlingit": "wé Teiḵweidích has ashée nuch.",
+          "line_english": "sung by the Teiḵweidí.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 210,
+      "sentence_tlingit": "Kichx̱áandáx̱ aa sdu dayéen ashí.",
+      "sentence_english": "The one from Ketchikan, she sang to them.",
+      "lines": [
+        {
+          "line_number": 473,
+          "line_tlingit": "Kichx̱áandáx̱ aa",
+          "line_english": "The one from Ketchikan,",
+          "page_tlingit": "240",
+          "page_english": "241"
+        },
+        {
+          "line_number": 474,
+          "line_tlingit": "sdu dayéen ashí.",
+          "line_english": "she sang to them.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 211,
+      "sentence_tlingit": "Xóots x̱ʼasheeyí.",
+      "sentence_english": "The Brown Bear Song.",
+      "lines": [
+        {
+          "line_number": 475,
+          "line_tlingit": "Xóots x̱ʼasheeyí.",
+          "line_english": "The Brown Bear Song.",
+          "page_tlingit": "240",
+          "page_english": "241"
+        }
+      ]
+    },
+    {
+      "sentence_number": 212,
+      "sentence_tlingit": "A kát g̱áax̱! A kát g̱áax̱. Aadáx̱ has awlikʼúts a jíni.",
+      "sentence_english": "She cried to it! She cried to it. They had torn his arms off.",
+      "lines": [
+        {
+          "line_number": 476,
+          "line_tlingit": "A kát g̱áax̱!",
+          "line_english": "She cried to it!",
+          "page_tlingit": "240",
+          "page_english": "243"
+        },
+        {
+          "line_number": 477,
+          "line_tlingit": "A kát g̱áax̱.",
+          "line_english": "She cried to it.",
+          "page_tlingit": "240",
+          "page_english": "243"
+        },
+        {
+          "line_number": 478,
+          "line_tlingit": "Aadáx̱ has awlikʼúts a jíni.",
+          "line_english": "They had torn his arms off.",
+          "page_tlingit": "242",
+          "page_english": "243"
+        }
+      ]
+    },
+    {
+      "sentence_number": 213,
+      "sentence_tlingit": "G̱aax̱ kíknáx̱ áwé aadé altsóow yá a daasheeyí wé du x̱úx̱ g̱aax̱ kíknáx̱.",
+      "sentence_english": "She joined them back to his body while singing this cry for her husband, while singing this cry.",
+      "lines": [
+        {
+          "line_number": 479,
+          "line_tlingit": "G̱aax̱ kíknáx̱ áwé aadé altsóow yá a daasheeyí",
+          "line_english": "She joined them back to his body while singing this cry",
+          "page_tlingit": "242",
+          "page_english": "243"
+        },
+        {
+          "line_number": 480,
+          "line_tlingit": "wé du x̱úx̱",
+          "line_english": "for her husband,",
+          "page_tlingit": "242",
+          "page_english": "243"
+        },
+        {
+          "line_number": 481,
+          "line_tlingit": "g̱aax̱ kíknáx̱.",
+          "line_english": "while singing this cry.",
+          "page_tlingit": "242",
+          "page_english": "243"
+        }
+      ]
+    }
+  ]
+}

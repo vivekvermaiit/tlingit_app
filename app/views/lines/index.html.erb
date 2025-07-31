@@ -1,0 +1,23 @@
+<h1>Search Lines</h1>
+
+<%= form_with url: lines_path, method: :get, local: true do %>
+  <%= label_tag :q, "Search for a word or phrase:" %><br>
+  <%= text_field_tag :q, params[:q], size: 40 %>
+  <%= submit_tag "Search" %>
+<% end %>
+
+<% if @lines.any? %>
+  <h2>Results:</h2>
+  <ul>
+    <% @lines.each do |line| %>
+      <li>
+        <strong>Tlingit:</strong> <%= line.line_tlingit %><br>
+        <strong>English:</strong> <%= line.line_english %><br>
+        <strong>Sentence:</strong> <%= line.sentence.sentence_english %><br>
+        <strong>Corpus:</strong> <%= line.sentence.corpus_entry.title %>
+      </li>
+    <% end %>
+  </ul>
+<% elsif params[:q].present? %>
+  <p>No results found.</p>
+<% end %>

@@ -1,0 +1,551 @@
+{
+  "number": "027",
+  "title": "Yéil Yaagú / Raven Boat",
+  "author": "Jeeník / Jennie White",
+  "clan": "Shangukeidí; Xʼatka.aayí yádi",
+  "source": "D&D 1987: 298–301",
+  "transcriber": "G̱unáakʼw Fred White",
+  "orthography": "RP",
+  "dialect": "Northern – Coastal – Yakutat",
+  "sentences": [
+    {
+      "sentence_number": 1,
+      "sentence_tlingit": "Kulix̱éitlʼshán wé eey.",
+      "sentence_english": "The rapids are very scary.",
+      "lines": [
+        {
+          "line_number": 1,
+          "line_tlingit": "Kulix̱éitlʼshán wé eey.",
+          "line_english": "The rapids are very scary.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 2,
+      "sentence_tlingit": "Dax̱dahéen L’uknax̱.ádi áx’ héent wudzik’ít’. Wé Ltu.aa yaa kawudaayí a tóode wookoox̱u aa áwé.",
+      "sentence_english": "Twice the L’uknax̱.ádi capsized there. This one boat travelled out of Lituya Bay when the tide had droppped.",
+      "lines": [
+        {
+          "line_number": 2,
+          "line_tlingit": "Dax̱dahéen L’uknax̱.ádi áx’ héent wudzik’ít’.",
+          "line_english": "Twice the L’uknax̱.ádi capsized there.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        },
+        {
+          "line_number": 3,
+          "line_tlingit": "Wé Ltu.aa yaa kawudaayí a tóode wookoox̱u aa áwé.",
+          "line_english": "This one boat travelled out of Lituya Bay when the tide had droppped.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 3,
+      "sentence_tlingit": "Tlél tsú dleit ḵáa yá Aḻásgi awuskú.",
+      "sentence_english": "No white man knew of Alaska.",
+      "lines": [
+        {
+          "line_number": 4,
+          "line_tlingit": "Tlél tsú dleit ḵáa yá Aḻásgi awuskú.",
+          "line_english": "No white man knew of Alaska.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 4,
+      "sentence_tlingit": "Tlé yú gusʼyát wulihásh at doogú daa.aax̱w.",
+      "sentence_english": "The bundle of furs floated out to the face of the clouds.",
+      "lines": [
+        {
+          "line_number": 5,
+          "line_tlingit": "Tlé yú gusʼyát wulihásh",
+          "line_english": "The bundle of furs",
+          "page_tlingit": "298",
+          "page_english": "299"
+        },
+        {
+          "line_number": 6,
+          "line_tlingit": "at doogú daa.aax̱w.",
+          "line_english": "floated out to the face of the clouds.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 5,
+      "sentence_tlingit": "Tlé yá pḻásdik gwéil ooyaa núch at naasí.",
+      "sentence_english": "The intestines resembled a plastic bag.",
+      "lines": [
+        {
+          "line_number": 7,
+          "line_tlingit": "Tlé yá pḻásdik gwéil ooyaa núch at naasí.",
+          "line_english": "The intestines resembled a plastic bag.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 6,
+      "sentence_tlingit": "Xóots naasí.",
+      "sentence_english": "Brown Bear intestines.",
+      "lines": [
+        {
+          "line_number": 8,
+          "line_tlingit": "Xóots naasí.",
+          "line_english": "Brown Bear intestines.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 7,
+      "sentence_tlingit": "Tlé dulxáash tsú áwé s wóochde dusḵáa.",
+      "sentence_english": "They are cut and sewn back together.",
+      "lines": [
+        {
+          "line_number": 9,
+          "line_tlingit": "Tlé dulxáash tsú áwé s wóochde dusḵáa.",
+          "line_english": "They are cut and sewn back together.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 8,
+      "sentence_tlingit": "At naasí gwéil áwé wé at doogú; tlé yú gus’yát wulihásh Ltu.aa.",
+      "sentence_english": "The intestinal bag of furs floated to the face of the clouds from Lituya Bay,",
+      "lines": [
+        {
+          "line_number": 10,
+          "line_tlingit": "At naasí",
+          "line_english": "The intestinal",
+          "page_tlingit": "298",
+          "page_english": "299"
+        },
+        {
+          "line_number": 11,
+          "line_tlingit": "gwéil áwé wé at doogú; tlé yú gus’yát wulihásh Ltu.aa.",
+          "line_english": "bag of furs floated to the face of the clouds from Lituya Bay,",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 9,
+      "sentence_tlingit": "Wé héench aan yéi ḵuwsineeyi át.",
+      "sentence_english": "the ones the people drowned with.",
+      "lines": [
+        {
+          "line_number": 12,
+          "line_tlingit": "Wé héench aan yéi ḵuwsineeyi át.",
+          "line_english": "the ones the people drowned with.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 10,
+      "sentence_tlingit": "Ách áyá yá Aḻásgi kaadéi Anóoshi ḵuwashee.",
+      "sentence_english": "This is why the Russians searched for Alaska.",
+      "lines": [
+        {
+          "line_number": 13,
+          "line_tlingit": "Ách áyá yá Aḻásgi kaadéi",
+          "line_english": "This is why",
+          "page_tlingit": "298",
+          "page_english": "299"
+        },
+        {
+          "line_number": 14,
+          "line_tlingit": "Anóoshi ḵuwashee.",
+          "line_english": "the Russians searched for Alaska.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 11,
+      "sentence_tlingit": "Áyá a káx̱ ḵuwduwashee yá Aḻásgi káx’ Lingít.",
+      "sentence_english": "That's how they found Tlingits in Alaska.",
+      "lines": [
+        {
+          "line_number": 15,
+          "line_tlingit": "Áyá a káx̱ ḵuwduwashee yá Aḻásgi káx’ Lingít.",
+          "line_english": "That's how they found Tlingits in Alaska.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 12,
+      "sentence_tlingit": "Hás tsú tlél tlél washéen has oo.oo, ch’a yéi s’ís’aa een át has wulis’ées.",
+      "sentence_english": "They didn't have machines either they'd just sail with canvas.",
+      "lines": [
+        {
+          "line_number": 16,
+          "line_tlingit": "Hás tsú tlél",
+          "line_english": "They didn't",
+          "page_tlingit": "298",
+          "page_english": "299"
+        },
+        {
+          "line_number": 17,
+          "line_tlingit": "tlél washéen has oo.oo, ch’a yéi",
+          "line_english": "have machines either they'd just",
+          "page_tlingit": "298",
+          "page_english": "299"
+        },
+        {
+          "line_number": 18,
+          "line_tlingit": "s’ís’aa een át has wulis’ées.",
+          "line_english": "sail with canvas.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 13,
+      "sentence_tlingit": "Ltu.aanáx̱ s’é kei aawlis’ís Anóoshi yaagú.",
+      "sentence_english": "A Russian boat first sailed into Lituya Bay.",
+      "lines": [
+        {
+          "line_number": 19,
+          "line_tlingit": "Ltu.aanáx̱ s’é kei aawlis’ís",
+          "line_english": "A Russian boat",
+          "page_tlingit": "298",
+          "page_english": "299"
+        },
+        {
+          "line_number": 20,
+          "line_tlingit": "Anóoshi yaagú.",
+          "line_english": "first sailed into Lituya Bay.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 14,
+      "sentence_tlingit": "Áwé Lingít l át yáx̱ sh koolneek.",
+      "sentence_english": "And so the Tlingits didn't tell it like it really was.",
+      "lines": [
+        {
+          "line_number": 21,
+          "line_tlingit": "Áwé",
+          "line_english": "And so",
+          "page_tlingit": "298",
+          "page_english": "299"
+        },
+        {
+          "line_number": 22,
+          "line_tlingit": "Lingít l át yáx̱ sh koolneek.",
+          "line_english": "the Tlingits didn't tell it like it really was.",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 15,
+      "sentence_tlingit": "Yéil yaagú áyú.",
+      "sentence_english": "It was the Raven boat,",
+      "lines": [
+        {
+          "line_number": 23,
+          "line_tlingit": "Yéil yaagú áyú.",
+          "line_english": "It was the Raven boat,",
+          "page_tlingit": "298",
+          "page_english": "299"
+        }
+      ]
+    },
+    {
+      "sentence_number": 16,
+      "sentence_tlingit": "Yóo áyú kdunéek wooch een, Yéil yaagú.",
+      "sentence_english": "was what they told one another, the Raven boat.",
+      "lines": [
+        {
+          "line_number": 24,
+          "line_tlingit": "Yóo áyú kdunéek wooch een,",
+          "line_english": "was what they told one another,",
+          "page_tlingit": "298",
+          "page_english": "301"
+        },
+        {
+          "line_number": 25,
+          "line_tlingit": "Yéil yaagú.",
+          "line_english": "the Raven boat.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 17,
+      "sentence_tlingit": "Yú Anóoshi áyú yéi yaa kanduník.",
+      "sentence_english": "That's what they were saying about the Russians.",
+      "lines": [
+        {
+          "line_number": 26,
+          "line_tlingit": "Yú Anóoshi áyú yéi yaa kanduník.",
+          "line_english": "That's what they were saying about the Russians.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 18,
+      "sentence_tlingit": "Wudusteení tle téix̱ yoo ḵug̱ux̱sateek.",
+      "sentence_english": "If you looked directly at it you would turn to stone.",
+      "lines": [
+        {
+          "line_number": 27,
+          "line_tlingit": "Wudusteení tle téix̱ yoo ḵug̱ux̱sateek.",
+          "line_english": "If you looked directly at it you would turn to stone.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 19,
+      "sentence_tlingit": "Ch’u yeedát yéi yatee yá Lingít.",
+      "sentence_english": "Even today the Tlingits are like that.",
+      "lines": [
+        {
+          "line_number": 28,
+          "line_tlingit": "Ch’u yeedát yéi yatee yá Lingít.",
+          "line_english": "Even today the Tlingits are like that.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 20,
+      "sentence_tlingit": "Awé yóot’át s’áxt’. A tóonáx̱ kukawduwatúl ḵa ketlháatl’i gwéil yáx̱ wduwaḵáa ḵa yátx’i náa a tóo yéi wduwa.oo.",
+      "sentence_english": "And that devil's club. They drilled holes in them and dog droppings were sewn like bags and put into their children's clothes.",
+      "lines": [
+        {
+          "line_number": 29,
+          "line_tlingit": "Awé yóot’át",
+          "line_english": "And that",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 30,
+          "line_tlingit": "s’áxt’.",
+          "line_english": "devil's club.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 31,
+          "line_tlingit": "A tóonáx̱ kukawduwatúl",
+          "line_english": "They drilled holes in them",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 32,
+          "line_tlingit": "ḵa",
+          "line_english": "and",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 33,
+          "line_tlingit": "ketlháatl’i",
+          "line_english": "dog droppings",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 34,
+          "line_tlingit": "gwéil yáx̱ wduwaḵáa ḵa yátx’i náa",
+          "line_english": "were sewn like bags",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 35,
+          "line_tlingit": "a tóo yéi wduwa.oo.",
+          "line_english": "and put into their children's clothes.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 21,
+      "sentence_tlingit": "Tléi téix̱ yoo ḵug̱ux̱sateek.",
+      "sentence_english": "You would turn to stone.",
+      "lines": [
+        {
+          "line_number": 36,
+          "line_tlingit": "Tléi téix̱ yoo ḵug̱ux̱sateek.",
+          "line_english": "You would turn to stone.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 22,
+      "sentence_tlingit": "Yóo áwé Lingít aadéi yaa sh kagalnikch’i yé.",
+      "sentence_english": "That's the way the Tlingits talked about this.",
+      "lines": [
+        {
+          "line_number": 37,
+          "line_tlingit": "Yóo áwé Lingít aadéi yaa sh kagalnikch’i yé.",
+          "line_english": "That's the way the Tlingits talked about this.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 23,
+      "sentence_tlingit": "Wé s’íksh, á ḵu.a áwé a tóonáx̱ ḵukawduwatúl, k’e i tunax̱kudutées’ yáx̱. A tóonáx̱ áwé dultínch wé Ltu.aanáx̱ kei klas’ées’. Hél téix̱ ḵugux̱satee aag̱áa.",
+      "sentence_english": "This blue hellebore was hollowed through though, let's see, like binoculars. As it sailed into Lituya Bay they looked at it through these. Then they wouldn't turn to stone.",
+      "lines": [
+        {
+          "line_number": 38,
+          "line_tlingit": "Wé s’íksh,",
+          "line_english": "This blue hellebore",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 39,
+          "line_tlingit": "á ḵu.a áwé a tóonáx̱ ḵukawduwatúl,",
+          "line_english": "was hollowed through though,",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 40,
+          "line_tlingit": "k’e i tunax̱kudutées’ yáx̱.",
+          "line_english": "let's see, like binoculars.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 41,
+          "line_tlingit": "A tóonáx̱ áwé dultínch",
+          "line_english": "As it sailed into Lituya Bay",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 42,
+          "line_tlingit": "wé Ltu.aanáx̱ kei klas’ées’.",
+          "line_english": "they looked at it through these.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 43,
+          "line_tlingit": "Hél téix̱ ḵugux̱satee aag̱áa.",
+          "line_english": "Then they wouldn't turn to stone.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 24,
+      "sentence_tlingit": "Ketlháatl’i tsú ḵaa séix̱ yawduwaḵáa.",
+      "sentence_english": "Dog droppings too were hung around children's necks.",
+      "lines": [
+        {
+          "line_number": 44,
+          "line_tlingit": "Ketlháatl’i tsú ḵaa séix̱ yawduwaḵáa.",
+          "line_english": "Dog droppings too were hung around children's necks.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 25,
+      "sentence_tlingit": "S’áxt’ ḵu.a áwé yéi kwdagei tsú a tóonáx̱ ḵukawduwatúl.",
+      "sentence_english": "But the larger devil's club had holes drilled through them too.",
+      "lines": [
+        {
+          "line_number": 45,
+          "line_tlingit": "S’áxt’",
+          "line_english": "But the larger",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 46,
+          "line_tlingit": "ḵu.a áwé yéi kwdagei",
+          "line_english": "devil's club",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 47,
+          "line_tlingit": "tsú a tóonáx̱ ḵukawduwatúl.",
+          "line_english": "had holes drilled through them too.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 26,
+      "sentence_tlingit": "Ḵáa yátx’i séi yei duwa.óo.",
+      "sentence_english": "They were put on the necks of their children.",
+      "lines": [
+        {
+          "line_number": 48,
+          "line_tlingit": "Ḵáa yátx’i",
+          "line_english": "They were put on the necks",
+          "page_tlingit": "300",
+          "page_english": "301"
+        },
+        {
+          "line_number": 49,
+          "line_tlingit": "séi yei duwa.óo.",
+          "line_english": "of their children.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    },
+    {
+      "sentence_number": 27,
+      "sentence_tlingit": "Aadé yóo at kaawaniyi yé shukát wé shgóona shudultee nóok.",
+      "sentence_english": "That's the way things happened in the beginning when they awaited the schooner.",
+      "lines": [
+        {
+          "line_number": 50,
+          "line_tlingit": "Aadé yóo at kaawaniyi yé shukát wé shgóona shudultee nóok.",
+          "line_english": "That's the way things happened in the beginning when they awaited the schooner.",
+          "page_tlingit": "300",
+          "page_english": "301"
+        }
+      ]
+    }
+  ]
+}
