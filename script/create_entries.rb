@@ -1,7 +1,6 @@
 require 'json'
 
-def parse_metadata(lines)
-  metadata = {}
+def parse_metadata(lines, metadata={})
   lines.each do |line|
     break unless line.start_with?("{")
     key, value = line.gsub(/[{}]/, "").split(" = ", 2)
@@ -84,7 +83,7 @@ def build_aligned_json(number, tlingit_lines, english_lines, metadata)
     }
   end
 
-  metadata.slice(:number, :title, :author, :clan, :source, :transcriber, :orthography, :dialect).merge(sentences: sentences)
+  metadata.slice(:number, :title, :author, :clan, :source, :transcriber, :translator, :orthography, :dialect).merge(sentences: sentences)
 end
 
 # === MAIN ===
@@ -104,7 +103,8 @@ valid_entries.each do |entry_num|
   tlingit_lines_raw = File.readlines(text_file, chomp: true)
   english_lines_raw = File.readlines(translation_file, chomp: true)
 
-  metadata = parse_metadata(tlingit_lines_raw)
+  metadata = parse_metadata(tlingit_lines_raw) #build metadata first
+  metadata = parse_metadata(english_lines_raw, metadata) # take remaining from english
 
   tlingit_lines = parse_lines_with_pages(tlingit_lines_raw)
   english_lines = parse_lines_with_pages(english_lines_raw)

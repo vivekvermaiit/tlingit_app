@@ -7,6 +7,7 @@ class CreateCorpusEntries < ActiveRecord::Migration[8.0]
       t.string :clan
       t.string :source
       t.string :transcriber
+      t.string :translator
       t.string :orthography
       t.string :dialect
 

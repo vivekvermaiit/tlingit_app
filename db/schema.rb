@@ -18,6 +18,7 @@ ActiveRecord::Schema[8.0].define(version: 2025_07_22_202938) do
     t.string "clan"
     t.string "source"
     t.string "transcriber"
+    t.string "translator"
     t.string "orthography"
     t.string "dialect"
     t.datetime "created_at", null: false
