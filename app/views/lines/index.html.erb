@@ -8,16 +8,42 @@
 
 <% if @lines.any? %>
   <h2>Results:</h2>
-  <ul>
+  <table border="1" cellpadding="5">
+    <thead>
+    <tr>
+      <th>Tlingit Line</th>
+      <th>English Line</th>
+      <th>Page Number Tlingit</th>
+      <th>Page Number English</th>
+      <th>Corpus Number</th>
+      <th>Corpus Title</th>
+      <th>Sentence Link</th>
+    </tr>
+    </thead>
+    <tbody>
     <% @lines.each do |line| %>
-      <li>
-        <strong>Tlingit:</strong> <%= line.line_tlingit %><br>
-        <strong>English:</strong> <%= line.line_english %><br>
-        <strong>Sentence:</strong> <%= line.sentence.sentence_english %><br>
-        <strong>Corpus:</strong> <%= line.sentence.corpus_entry.title %>
-      </li>
+      <tr>
+        <td><%= line.line_tlingit %></td>
+        <td><%= line.line_english %></td>
+        <td><%= line.page_tlingit %></td>
+        <td><%= line.page_english %></td>
+        <td><%= link_to line.sentence.corpus_entry.number, corpus_entry_path(line.sentence.corpus_entry.number) %></td>
+        <td><%= line.sentence.corpus_entry.title %></td>
+        <td>
+          <%= link_to "View Sentence",
+                      sentence_path(
+                        line.sentence_id,
+                        keyword: @query,
+                        show_context: true,
+                        page_tlingit: line.page_tlingit,
+                        page_english: line.page_english
+                      )
+          %>
+        </td>
+      </tr>
     <% end %>
-  </ul>
+    </tbody>
+  </table>
 <% elsif params[:q].present? %>
   <p>No results found.</p>
 <% end %>

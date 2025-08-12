@@ -1,0 +1,58 @@
+<h1>
+  Corpus Entry: <%= link_to @corpus_entry.number, corpus_entry_path(@corpus_entry.number) %>
+</h1>
+<h2>Title: <%= @corpus_entry.title %></h2>
+
+<div class="sentences-container" style="display: flex; gap: 2rem;">
+  <!-- Tlingit Column -->
+  <div class="column" style="flex: 1;">
+    <h3 style="text-align: center;">
+      Tlingit<%= " (Page #{@page_tlingit})" if @page_tlingit.present? %>
+    </h3>
+
+    <% if @show_context && @prev_sentence %>
+      <div class="sentence context">
+        <strong>Previous sentence:</strong><br>
+        <%= @prev_sentence.sentence_tlingit %>
+      </div>
+    <% end %>
+
+    <div class="sentence main">
+      <strong>Sentence <%= @sentence.sentence_number %>:</strong><br>
+      <%= highlight_text(@sentence.sentence_tlingit, @keyword, 'keyword-highlight') %>
+    </div>
+
+    <% if @show_context && @next_sentence %>
+      <div class="sentence context">
+        <strong>Next sentence:</strong><br>
+        <%= @next_sentence.sentence_tlingit %>
+      </div>
+    <% end %>
+  </div>
+
+  <!-- English Column -->
+  <div class="column" style="flex: 1;">
+    <h3 style="text-align: center;">
+      English<%= " (Page #{@page_english})" if @page_english.present? %>
+    </h3>
+
+    <% if @show_context && @prev_sentence %>
+      <div class="sentence context">
+        <strong>Previous sentence:</strong><br>
+        <%= @prev_sentence.sentence_english %>
+      </div>
+    <% end %>
+
+    <div class="sentence main">
+      <strong>Sentence <%= @sentence.sentence_number %>:</strong><br>
+      <%= highlight_text(@sentence.sentence_english, @keyword, 'keyword-highlight') %>
+    </div>
+
+    <% if @show_context && @next_sentence %>
+      <div class="sentence context">
+        <strong>Next sentence:</strong><br>
+        <%= @next_sentence.sentence_english %>
+      </div>
+    <% end %>
+  </div>
+</div>
