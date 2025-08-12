@@ -5,7 +5,11 @@ class LinesController < ApplicationController
     @query = params[:q]
 
     @lines = if @query.present?
-               Line.includes(sentence: :corpus_entry).search_text(@query).order(:line_number).limit(50)
+               Line.includes(sentence: :corpus_entry)
+                   .search_text(@query)
+                   .order(:line_number)
+                   .page(params[:page])
+                   .per(20)
     else
                []
     end

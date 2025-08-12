@@ -44,6 +44,8 @@
     <% end %>
     </tbody>
   </table>
+  <%= paginate @lines %>
+
 <% elsif params[:q].present? %>
   <p>No results found.</p>
 <% end %>
