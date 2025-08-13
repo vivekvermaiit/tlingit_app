@@ -1,10 +1,39 @@
-<h1>Search Lines</h1>
+<h1>Search for text in Corpus</h1>
 
 <%= form_with url: lines_path, method: :get, local: true do %>
-  <%= label_tag :q, "Search for a word or phrase:" %><br>
-  <%= text_field_tag :q, params[:q], size: 40 %>
+  <div>
+    <%= label_tag :q, "Search for word or phrase:" %><br>
+    <%= text_field_tag :q, params[:q], size: 40, id: "normal-search" %>
+  </div>
+
+  <div>
+    <%= label_tag :regex, "Regex Search:" %><br>
+    <%= text_field_tag :regex, params[:regex], size: 40, id: "regex-search" %>
+  </div>
+
   <%= submit_tag "Search" %>
 <% end %>
+
+<script>
+    const normalInput = document.getElementById("normal-search");
+    const regexInput = document.getElementById("regex-search");
+
+    normalInput.addEventListener("input", () => {
+        if(normalInput.value.length > 0) {
+            regexInput.disabled = true;
+        } else {
+            regexInput.disabled = false;
+        }
+    });
+
+    regexInput.addEventListener("input", () => {
+        if(regexInput.value.length > 0) {
+            normalInput.disabled = true;
+        } else {
+            normalInput.disabled = false;
+        }
+    });
+</script>
 
 <% if @lines.any? %>
   <h2>Results:</h2>
@@ -33,7 +62,8 @@
           <%= link_to "View Sentence",
                       sentence_path(
                         line.sentence_id,
-                        keyword: @query,
+                        keyword_text: @query_text.presence,
+                        keyword_regex: @query_regex.presence,
                         show_context: true,
                         page_tlingit: line.page_tlingit,
                         page_english: line.page_english

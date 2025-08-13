@@ -327,6 +327,9 @@ GEM
     sqlite3 (2.7.3-x86_64-darwin)
     sqlite3 (2.7.3-x86_64-linux-gnu)
     sqlite3 (2.7.3-x86_64-linux-musl)
+    sqlite3_ar_regexp (3.0.0)
+      activerecord (>= 6.0)
+      sqlite3 (>= 1.4)
     sshkit (1.24.0)
       base64
       logger
@@ -398,6 +401,7 @@ DEPENDENCIES
   solid_cache
   solid_queue
   sqlite3 (>= 2.1)
+  sqlite3_ar_regexp (~> 3.0)
   stimulus-rails
   thruster
   turbo-rails
