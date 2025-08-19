@@ -11,6 +11,18 @@
     <%= text_field_tag :regex, params[:regex], size: 40, id: "regex-search" %>
   </div>
 
+  <div>
+    <p>Search in:</p>
+    <%= radio_button_tag :scope, "tlingit", params[:scope] == "tlingit", id: "scope-tlingit" %>
+    <%= label_tag :scope_tlingit, "Tlingit" %>
+
+    <%= radio_button_tag :scope, "english", params[:scope] == "english", id: "scope-english" %>
+    <%= label_tag :scope_english, "English" %>
+
+    <%= radio_button_tag :scope, "both", params[:scope].blank? || params[:scope] == "both", id: "scope-both" %>
+    <%= label_tag :scope_both, "Both" %>
+  </div>
+
   <%= submit_tag "Search" %>
 <% end %>
 
