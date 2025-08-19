@@ -18,7 +18,7 @@
     <% end %>
 
     <div class="sentence main">
-      <strong>Sentence <%= @sentence.sentence_number %>:</strong><br>
+      <strong>Sentence <%= @line_number %>:</strong><br>
       <%= highlight_text(@sentence.sentence_tlingit, @keyword_text,@keyword_regex, 'keyword-highlight') %>
     </div>
 
@@ -44,7 +44,7 @@
     <% end %>
 
     <div class="sentence main">
-      <strong>Sentence <%= @sentence.sentence_number %>:</strong><br>
+      <strong>Sentence <%= @line_number %>:</strong><br>
       <%= highlight_text(@sentence.sentence_english, @keyword_text,@keyword_regex, 'keyword-highlight') %>
     </div>
 
