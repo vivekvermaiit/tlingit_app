@@ -9,6 +9,7 @@ class SentencesController < ApplicationController
     @page_tlingit = params[:page_tlingit].presence
     @page_english = params[:page_english].presence
     @line_number = params[:line_number].presence
+    @scope = params[:scope].presence
 
     if @show_context
       @prev_sentence = Sentence.where(corpus_entry_id: @corpus_entry.id)

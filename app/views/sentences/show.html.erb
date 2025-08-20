@@ -19,7 +19,11 @@
 
     <div class="sentence main">
       <strong>Sentence <%= @line_number %>:</strong><br>
-      <%= highlight_text(@sentence.sentence_tlingit, @keyword_text,@keyword_regex, 'keyword-highlight') %>
+      <% if @scope == "both" || @scope == "tlingit" %>
+        <%= highlight_text(@sentence.sentence_tlingit, @keyword_text, @keyword_regex, 'keyword-highlight') %>
+      <% else %>
+        <%= @sentence.sentence_tlingit %>
+      <% end %>
     </div>
 
     <% if @show_context && @next_sentence %>
@@ -45,7 +49,11 @@
 
     <div class="sentence main">
       <strong>Sentence <%= @line_number %>:</strong><br>
-      <%= highlight_text(@sentence.sentence_english, @keyword_text,@keyword_regex, 'keyword-highlight') %>
+      <% if @scope == "both" || @scope == "english" %>
+        <%= highlight_text(@sentence.sentence_english, @keyword_text, @keyword_regex, 'keyword-highlight') %>
+      <% else %>
+        <%= @sentence.sentence_english %>
+      <% end %>
     </div>
 
     <% if @show_context && @next_sentence %>
